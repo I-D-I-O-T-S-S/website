@@ -1,4 +1,4 @@
-name: PullRepo
+  name: PullRepo
 
 on:
   push:
@@ -16,5 +16,5 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: 'I-D-I-O-T-S-S/website'
-          #lfs: true
+          lfs: true
             
