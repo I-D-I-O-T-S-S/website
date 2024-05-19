@@ -16,8 +16,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4.1.6
         with:
-          # Repository name with owner. For example, actions/checkout
-          # Default: ${{ github.repository }}
           repository: 'I-D-I-O-T-S-S/website'
-          lfs: true
+          # lfs: true
             
