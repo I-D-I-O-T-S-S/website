@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 jobs:
-  build:
+  updateSite:
     runs-on: [Linux, self-hosted]
   
     steps:
