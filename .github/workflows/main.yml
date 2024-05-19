@@ -14,7 +14,7 @@ jobs:
     runs-on: [Linux, self-hosted]
   
     steps:
-      - uses: actions/checkout@v4.1.6
+      - uses: actions/checkout@v4
         with:
           repository: 'I-D-I-O-T-S-S/website'
           # lfs: true
