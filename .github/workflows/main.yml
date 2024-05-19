@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: [ linux ] 
+    runs-on: "web-host"
   
     steps:
       - uses: actions/checkout@v4.1.6
