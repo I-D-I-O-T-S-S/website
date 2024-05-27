@@ -10,7 +10,8 @@
         <h3>Mods download</h3>
         <!-- <p><a href="<?php echo $path?>/downloads/latest.zip">latest.zip</a> (500 bytes)</p> -->
         <p>Built for <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">forge 1.20.1<a></p>
-        <p><a href="<?php echo $path?>/downloads/mods-3.0.0.zip">mods-3.0.0.zip</a> (85mb)</p>
+        <p><a href="<?php echo $path?>/downloads/mods-3.0.1.zip">mods-3.0.1.zip</a> (85mb)</p>
+        <p><a href="<?php echo $path?>/downloads/changelog">changelog</a> (85mb)</p>
         <h3>Old Server</h3>
         <p>This is the old server. It runs on <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">forge 1.20.1<a>. Download the world and the mods for it to work.</p>
         <p><a href="<?php echo $path?>/downloads/mods-2.7.0.zip">mods-2.7.0.zip</a> (65mb)</p>
