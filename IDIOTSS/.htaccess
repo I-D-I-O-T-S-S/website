@@ -1,0 +1,3 @@
+Options +MultiViews
+ErrorDocument 404 /scripts/errorHandler.php
+ErrorDocument 403 /scripts/errorHandler.php
