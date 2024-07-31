@@ -1,5 +1,5 @@
 <?php
-require_once("createHeaders.php");
+require_once(__DIR__."/createHeaders.php");
 ?>
 <!-- Imports the stylesheet -->
 <link rel="stylesheet" href="<?php echo $path?>/stylesheets/nav.css">

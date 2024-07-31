@@ -1,7 +1,7 @@
 <html>
     <?php
-        require_once("../scripts/createHeaders.php");
-        require_once("../scripts/createNav.php");
+        require_once(__DIR__."/../scripts/createHeaders.php");
+        require_once(__DIR__."/../scripts/createNav.php");
         createHeader("Changelog", "List of changes");
     ?>
     <body>
