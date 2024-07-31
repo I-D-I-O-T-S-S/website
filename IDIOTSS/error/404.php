@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <?php
-    require_once("../scripts/createHeader.php");
+    require_once(__DIR__."/../scripts/createHeaders.php");
     createHeader("404", "404 page not found");
 
-    require_once("../scripts/createNav.php");
+    require_once(__DIR__."/../scripts/createNav.php");
     consoleLog("404 Page not found");
 ?>
 <h1>404</h1>

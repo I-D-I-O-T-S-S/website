@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <?php
-    require_once("../scripts/createHeader.php");
+    require_once(__DIR__."/../scripts/createHeaders.php");
     createHeader("403", "404 forbidden");
 
-    require_once("../scripts/createNav.php");
+    require_once(__DIR__."/../scripts/createNav.php");
     consoleLog("403 forbidden");
 ?>
 <h1>403</h1>

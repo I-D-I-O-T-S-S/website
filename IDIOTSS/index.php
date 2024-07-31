@@ -1,8 +1,8 @@
 <html>
     <?php
-        require_once("scripts/createHeaders.php");
+        require_once(__DIR__."/scripts/createHeaders.php");
         createHeader("IDIOTSS Website", "The best website ever");
-        require_once("scripts/createNav.php")
+        require_once(__DIR__."/scripts/createNav.php")
     ?>
     <body>
         <img src="<?php echo $path?>/images/egg.gif" style="display:inline-block" height=10%>
