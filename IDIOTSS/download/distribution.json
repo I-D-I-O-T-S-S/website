@@ -1012,6 +1012,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 9018,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/files/options.txt",
+            "MD5": "b93a5c1dd54afb0cfdc9d9670e9df3f4",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
