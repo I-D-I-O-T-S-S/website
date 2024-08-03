@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///D:/Github/website/IDIOTSS/download/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.1",
+    "name": "IDIOTSS",
+    "description": "IDIOTSS Server",
+    "icon": "https://www.idiotss.com/favicon.png",
+    "address": "play.idiotss.com",
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.2.20"
+  },
+  "untrackedFiles": []
+}
