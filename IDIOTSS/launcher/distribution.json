@@ -1,0 +1,1017 @@
+{
+  "version": "1.0.1",
+  "servers": [
+    {
+      "id": "IDIOTSS_SERVER-1.20.1",
+      "name": "IDIOTSS Server",
+      "description": "IDIOTSS Server",
+      "icon": null,
+      "version": "1.0.1",
+      "address": "play.idiotss.com",
+      "minecraftVersion": "1.20.1",
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.2.20",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7400,
+            "MD5": "9445bd28cb8bbf3405bcacc54627a6da",
+            "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-47.2.20",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16554,
+                "MD5": "2b7daf23d11fff0d0e2b7ae54712dbdf",
+                "url": "https://www.idiotss.com/download/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.2.20",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118686,
+                "MD5": "a710f72f170f88737ff72a53ea1349d8",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.2.20",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16517,
+                "MD5": "3521da7e51982c2ace3a21ffe4070693",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.2.20",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4999,
+                "MD5": "4aeef0ba963dfbe0c4104b6532989988",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.2.20:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2679250,
+                "MD5": "27de7a3f2e5c69d54bc52cb179831aa9",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.2.20:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4791301,
+                "MD5": "c548aeb8e9e1cd028005b628b54f3a29",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "https://www.idiotss.com/download/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.5",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 121863,
+                "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.5",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 72209,
+                "MD5": "7d1fce986192f71722b19754e4cb9e61",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.5",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51944,
+                "MD5": "44755681b7d6fa7143afbb438e55c20c",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.5",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 91076,
+                "MD5": "ad0016249fb68bb9196babefd47b80dc",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.5",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 33978,
+                "MD5": "4df0adafc78ebba404d4037987d36b61",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://www.idiotss.com/download/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.5",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.0.1",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 24199,
+                "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "https://www.idiotss.com/download/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://www.idiotss.com/download/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "https://www.idiotss.com/download/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "https://www.idiotss.com/download/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://www.idiotss.com/download/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "https://www.idiotss.com/download/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "https://www.idiotss.com/download/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "https://www.idiotss.com/download/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167288,
+                "MD5": "91e98c20afa1090c344229ce28b4c53f",
+                "url": "https://www.idiotss.com/download/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "https://www.idiotss.com/download/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.2.20",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 264185,
+                "MD5": "acee22eaf221c8cd61225002596f7640",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.2.20",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170553,
+                "MD5": "b54b6fe4bd44788dcc6655f3399541f4",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "de.srendi:advancedperipherals:0.7.38r@jar",
+          "name": "Advanced Peripherals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 855665,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/AdvancedPeripherals-1.20.1-0.7.38r.jar",
+            "MD5": "abae039a35f968b0563b8a346835fd4e"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
+          "id": "earth.terrarium:athena:3.1.2@jar",
+          "name": "Athena",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91808,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
+          }
+        },
+        {
+          "id": "com.kryeit:bigcontraptions:1.0@jar",
+          "name": "Create: Big Contraptions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8540,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/bigcontraptions-1.0.jar",
+            "MD5": "9e83dde0179062f099a3ed28841a4df8"
+          }
+        },
+        {
+          "id": "earth.terrarium:botarium:2.3.1@jar",
+          "name": "Botarium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 148443,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/botarium-forge-1.20.1-2.3.1.jar",
+            "MD5": "6dee32f74e1bca8af19631c209fd8e02"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439457,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+          }
+        },
+        {
+          "id": "dan200.computercraft:computercraft:1.110.3@jar",
+          "name": "CC: Tweaked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3118151,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.110.3.jar",
+            "MD5": "bc7bba95d452bc1dd59e2270b0c58db3"
+          }
+        },
+        {
+          "id": "cc.tweaked_programs.cccbridge.common.modloader:cccbridge:1.6.3-forge@jar",
+          "name": "CC:C Bridge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 289381,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/cccbridge-mc1.20.1-forge-1.6.3.jar",
+            "MD5": "8954495d581577028c662b6bcf4bb5e2"
+          }
+        },
+        {
+          "id": "earth.terrarium:chipped:3.0.6@jar",
+          "name": "Chipped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15060040,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/Chipped-forge-1.20.1-3.0.6.jar",
+            "MD5": "5a9884538e222ff0b47ec860cd050885"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:configured:2.2.3@jar",
+          "name": "Configured",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 418929,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/configured-forge-1.20.1-2.2.3.jar",
+            "MD5": "9380dc31c599c523a5682a4025fceb92"
+          }
+        },
+        {
+          "id": "thetadev.constructionwand:constructionwand:1.20.1-2.11@jar",
+          "name": "Construction Wand",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 210312,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/constructionwand-1.20.1-2.11.jar",
+            "MD5": "e17b0f6b4fa378d6750a9030a5aca9e0"
+          }
+        },
+        {
+          "id": "com.copycatsplus:copycats:1.20.1-1.2.6@jar",
+          "name": "Create: Copycats+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1361980,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/Copycats-forge.1.20.1-1.2.6.jar",
+            "MD5": "29354644c61d04989f57ec5d58fd0679"
+          }
+        },
+        {
+          "id": "de.maxhenkel:corpse:1.20.1-1.0.12@jar",
+          "name": "Corpse",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 243182,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.12.jar",
+            "MD5": "227b67ff8736fdb9c8ed0b100201a2b9"
+          }
+        },
+        {
+          "id": "plus.dragons.createcentralkitchen:create_central_kitchen:1.3.12@jar",
+          "name": "Create: Central Kitchen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 881845,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
+            "MD5": "2020d58dceabd76a39d2fe483b4806b6"
+          }
+        },
+        {
+          "id": "com.cyvack:create_crystal_clear:1.20.1 - 0.1.1e@jar",
+          "name": "Create: Crystal Clear",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 286035,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/create_crystal_clear-1.0.jar",
+            "MD5": "200a6a8cfbd03bc0ad8ab9b77dca2932"
+          }
+        },
+        {
+          "id": "plus.dragons.createenchantmentindustry:create_enchantment_industry:1.2.9.d@jar",
+          "name": "Create Enchantment Industry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 495595,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar",
+            "MD5": "fb224ab499d287b842b12b69fcb04fa9"
+          }
+        },
+        {
+          "id": "net.mcreator.createhighpressure:create_high_pressure:1.1.0@jar",
+          "name": "Create: High Pressure",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 149755,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/create_high_pressure-1.1.0.jar",
+            "MD5": "41b518071eab5589e58572d80332e030"
+          }
+        },
+        {
+          "id": "com.possible_triangle:create_jetpack:4.2.1@jar",
+          "name": "Create Jetpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 229959,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/create_jetpack-forge-4.2.1.jar",
+            "MD5": "168b88373d42322155c84b87b16a48ce"
+          }
+        },
+        {
+          "id": "com.hlysine:create_power_loader:1.5.0-mc1.20.1@jar",
+          "name": "Create: Power Loader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 223428,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/create_power_loader-1.5.0-mc1.20.1.jar",
+            "MD5": "fdc8e3662b921771c31057e112e58c26"
+          }
+        },
+        {
+          "id": "com.simibubi:create:0.5.1.f@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14964127,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
+            "MD5": "6a097aa0bfc73a4f8372a16e763f9f02"
+          }
+        },
+        {
+          "id": "net.mcreator.createconfectionery:create_confectionery:1.1.0@jar",
+          "name": "Create Confectionery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2123089,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/create-confectionery1.20.1_v1.1.0.jar",
+            "MD5": "12760e582e8e0bd77e1b3a9421bb7e01"
+          }
+        },
+        {
+          "id": "org.antarcticgardens.newage:create_new_age:1.1.2@jar",
+          "name": "Create: New Age",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 663575,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/create-new-age-forge-1.20.1-1.1.2.jar",
+            "MD5": "849f2be17ade31494ced55cb5c03aa8b"
+          }
+        },
+        {
+          "id": "com.mrh0:createaddition:1.20.1-1.2.3@jar",
+          "name": "Create Crafts & Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 217639,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/createaddition-1.20.1-1.2.3.jar",
+            "MD5": "73b04b89e96fc60a005851e959ca42e0"
+          }
+        },
+        {
+          "id": "rbasamoyai.createbigcannons:createbigcannons:0.5.4-nightly-8b9cea6@jar",
+          "name": "Create Big Cannons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2656377,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/createbigcannons-forge-1.20.1-0.5.4.jar",
+            "MD5": "fc52529a8358bd3c8dc7ce6ad2bd76c2"
+          }
+        },
+        {
+          "id": "com.imphuls3:createcafe:1.2.4-1.20.1@jar",
+          "name": "Create Cafe",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 385855,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/createcafe-1.2.4-1.20.1.jar",
+            "MD5": "ed05a2a9a228ad6694e7d684c1ccec40"
+          }
+        },
+        {
+          "id": "com.github.talrey:createdeco:2.0.2-1.20.1-forge@jar",
+          "name": "Create Deco",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3966138,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/createdeco-2.0.2-1.20.1-forge.jar",
+            "MD5": "9c86ef2ebb60aa617ac92c3ae1d3c545"
+          }
+        },
+        {
+          "id": "com.jesz:createdieselgenerators:1.20.1-1.2h@jar",
+          "name": "Create Diesel Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1943183,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/createdieselgenerators-1.20.1-1.2h.jar",
+            "MD5": "5a40667156fcff4e4e1a54ac4db46900"
+          }
+        },
+        {
+          "id": "dev.ithundxr.createnumismatics:numismatics:1.0.6+forge-mc1.20.1@jar",
+          "name": "Create: Numismatics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 884314,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/CreateNumismatics-1.0.6+forge-mc1.20.1.jar",
+            "MD5": "0d8c3c8e5cdf8a6a65009d592d31d7c3"
+          }
+        },
+        {
+          "id": "de.mrjulsen.crn:createrailwaysnavigator:0.5.3-beta-1.20.1-forge@jar",
+          "name": "Create Railways Navigator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2631662,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/createrailwaysnavigator-0.5.3-beta-1.20.1-forge.jar",
+            "MD5": "60bb92b9f7f46be1c4a2d87387503aa6"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.9.0+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 382848,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/curios-forge-5.9.0+1.20.1.jar",
+            "MD5": "c9ffab8c8b77171281588dc8c64868c9"
+          }
+        },
+        {
+          "id": "com.petrolpark:destroy:0.8@jar",
+          "name": "Destroy",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7771775,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/destroy-1.20.1-0.8.jar",
+            "MD5": "8c59d026a4fb1701b1ce14d19e8d55c8"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.18+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1267422,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/embeddium-0.3.18+mc1.20.1-all.jar",
+            "MD5": "55097e05dc1317d19e011faadad1af09"
+          }
+        },
+        {
+          "id": "com.axedgaming:endersdelight:1.0.3@jar",
+          "name": "Ender's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 118584,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/endersdelight-1.20.1-1.0.3.jar",
+            "MD5": "62482eda8558ee1c1e21a1c46bfe02f5"
+          }
+        },
+        {
+          "id": "io.github.mortuusars:exposure:1.6.0@jar",
+          "name": "Exposure",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1042369,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/exposure-1.20.1-1.6.0-forge.jar",
+            "MD5": "2b788c2977d070db6e4c1295756dc2e0"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.4@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2915349,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.4.jar",
+            "MD5": "5b6bee961b278a3edd6e3935b061fbaa"
+          }
+        },
+        {
+          "id": "net.olafski:fastleafdecay:31@jar",
+          "name": "Fast Leaf Decay",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9833,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/FastLeafDecay-31.jar",
+            "MD5": "f9962d78568b9f71b70916238253d33c"
+          }
+        },
+        {
+          "id": "xfacthd.framedblocks:framedblocks:9.2.2@jar",
+          "name": "FramedBlocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4076627,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/FramedBlocks-9.2.2.jar",
+            "MD5": "e0653206455a50c9392276c119b6c03c"
+          }
+        },
+        {
+          "id": "net.xolt:freecam:1.2.1+1.20@jar",
+          "name": "Freecam (Modrinth Edition)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76066,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/freecam-forge-modrinth-1.2.1+1.20.jar",
+            "MD5": "8062b0210b2539dfba4bd6c0e6cfe921"
+          }
+        },
+        {
+          "id": "net.dakotapride:garnished:1.7.2+1.20.1@jar",
+          "name": "Create: Garnished",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1557463,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/garnished-1.7.2+1.20.1.jar",
+            "MD5": "3ccb0d9ffbde887e039d3caedb07746f"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.9.1+forge@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 545771,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/Jade-1.20.1-forge-11.9.1.jar",
+            "MD5": "b761dc521c74b7bd66f88de5c6c4f49d"
+          }
+        },
+        {
+          "id": "snownee.jade.addon:jadeaddons:5.2.2@jar",
+          "name": "Jade Addons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 58529,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/JadeAddons-1.20.1-forge-5.2.2.jar",
+            "MD5": "2f1d72f5d532e421b360ecf8f8b31ba5"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.3.0.4@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1127828,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/jei-1.20.1-forge-15.3.0.4.jar",
+            "MD5": "8f2c0bbb8f691be76f0b44c1d61d94e7"
+          }
+        },
+        {
+          "id": "jeresources:jeresources:1.4.0.247@jar",
+          "name": "Just Enough Resources",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 276231,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/JustEnoughResources-1.20.1-1.4.0.247.jar",
+            "MD5": "413f7d427a16254ec8e08f78094a206d"
+          }
+        },
+        {
+          "id": "generated.forgemod:kotlinforforge:4.10.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7778600,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/kotlinforforge-4.10.0-all.jar",
+            "MD5": "66104f85db917822d99311bcb6c71f97"
+          }
+        },
+        {
+          "id": "com.chaosthedude:naturescompass:1.20.1-1.11.2-forge@jar",
+          "name": "Nature's Compass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215119,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/NaturesCompass-1.20.1-1.11.2-forge.jar",
+            "MD5": "7c05072645b1aae529b1e38c74b87c4c"
+          }
+        },
+        {
+          "id": "umpaz.nethersdelight:nethersdelight:1.20.1-4.0@jar",
+          "name": "Nether's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 366047,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/nethersdelight-1.20.1-4.0.jar",
+            "MD5": "0d8e8162742fef314467ab1bdaac67b0"
+          }
+        },
+        {
+          "id": "com.matyrobbrt:okzoomer:3.0.1@jar",
+          "name": "OkZoomer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 120046,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/okzoomer-forge-1.20-3.0.1.jar",
+            "MD5": "cae64657bac994d5d116ef25b5978913"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:2.1.24@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 424237,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.24.jar",
+            "MD5": "559fc9800f1ccbc4a182c7af0cf506c6"
+          }
+        },
+        {
+          "id": "com.possible_triangle:sliceanddice:3.2.0@jar",
+          "name": "Create Slice & Dice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 224151,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/sliceanddice-forge-3.2.0.jar",
+            "MD5": "35a44bc2f244fdc72f692c0d974ef66f"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.5.1044@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 851750,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.5.1044.jar",
+            "MD5": "1cb86d978ee8780206de685497d1faf0"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.22.611@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1080551,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.22.611.jar",
+            "MD5": "3569d694bccc0e8e35ab7707b4baf0b1"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.3.1@jar",
+          "name": "Sound Physics Remastered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174516,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.3.1.jar",
+            "MD5": "3118e7ce35093d154c6e9742933b8d6f"
+          }
+        },
+        {
+          "id": "com.railwayteam:railways:1.6.4+forge-mc1.20.1@jar",
+          "name": "Create: Steam 'n' Rails",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9096035,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+            "MD5": "a166aa861a8c584c89271731d882a45e"
+          }
+        },
+        {
+          "id": "com.jaquadro.minecraft:storagedrawers:12.0.3@jar",
+          "name": "Storage Drawers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 583143,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/storagedrawers-1.20.1-12.0.3.jar",
+            "MD5": "c3931732aba75370208269b7e3a92b6d"
+          }
+        },
+        {
+          "id": "de.mrjulsen:trainperspectivefix:1.0.0-1.18.2@jar",
+          "name": "Create: Train Perspective Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82555,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/trainperspectivefix-1.0.0-universal.jar",
+            "MD5": "9387c6329cc5eb418e5ec928e67e3c0c"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.14@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7704423,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.14.jar",
+            "MD5": "4fa0dc4efeaa356f3dca102ba30a3a6a"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:24.1.1@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1442805,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/Xaeros_Minimap_24.1.1_Forge_1.20.jar",
+            "MD5": "dcfa04c04cde9d11484a88a930854afe"
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.38.4@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 925318,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/XaerosWorldMap_1.38.4_Forge_1.20.jar",
+            "MD5": "b8bff8270301e1cf16954525c39c58e7"
+          }
+        },
+        {
+          "id": "xerca.xercapaint:xercapaint:1.20.1-1.0.0@jar",
+          "name": "Joy of Painting",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 397719,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS_SERVER-1.20.1/forgemods/required/xercapaint-1.20.1-1.0.0.jar",
+            "MD5": "553f1fbfd40fc86fe71a342c7be3091d"
+          }
+        }
+      ]
+    }
+  ]
+}
