@@ -582,6 +582,16 @@
           }
         },
         {
+          "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
+          "name": "CoroUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 64187,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
+            "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
+          }
+        },
+        {
           "id": "de.maxhenkel:corpse:1.20.1-1.0.12@jar",
           "name": "Corpse",
           "type": "ForgeMod",
@@ -1072,6 +1082,16 @@
             "size": 82555,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/trainperspectivefix-1.0.0-universal.jar",
             "MD5": "9387c6329cc5eb418e5ec928e67e3c0c"
+          }
+        },
+        {
+          "id": "com.gitlab.cdagaming:unilib:1.0.1@jar",
+          "name": "UniLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 964959,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/UniLib-1.0.1+1.20.1-forge.jar",
+            "MD5": "ea5035ab1468871b83cdd0c5ca285685"
           }
         },
         {
