@@ -192,7 +192,7 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details:key.keyboard.left.shift
-key_key.curios.open.desc:key.keyboard.g
+key_key.curios.open.desc:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
