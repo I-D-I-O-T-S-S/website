@@ -1,9 +1,167 @@
 /* ------------- Nav Bar ------------- */
-    nav {
-        /* Wanna make the nav bar fixed to the top of the page but it's broken */
-        /* position: fixed; */
-        /* top: 0; */
+
+nav {
+  /* Wanna make the nav bar fixed to the top of the page but it's broken */
+  /* position: fixed; */
+  /* top: 0; */
+  background-color: white;
+}
+body {
+  margin: 0;
+  /* background-image: url("/images/backgrounds/0.png"); */
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  text-align: center;
+  color: white;
+}
+
+.url {
+  text-align: center;
+}
+
+/* ----------------------------------- */
+
+/* ------------- LOGO ------------- */
+
+/* KEYFRAMES */
+@keyframes spin {
+    from {
+      transform: rotate(0);
     }
-    body {
-        margin: 0;
+    to{
+      transform: rotate(359deg);
     }
+  }
+  
+  @keyframes spin3D {
+    from {
+      transform: rotate3d(.5,.5,.5, 360deg);
+    }
+    to{
+      transform: rotate3d(0deg);
+    }
+  }
+  
+  @keyframes configure-clockwise {
+    0% {
+      transform: rotate(0);
+    }
+    25% {
+      transform: rotate(90deg);
+    }
+    50% {
+      transform: rotate(180deg);
+    }
+    75% {
+      transform: rotate(270deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  @keyframes configure-xclockwise {
+    0% {
+      transform: rotate(45deg);
+    }
+    25% {
+      transform: rotate(-45deg);
+    }
+    50% {
+      transform: rotate(-135deg);
+    }
+    75% {
+      transform: rotate(-225deg);
+    }
+    100% {
+      transform: rotate(-315deg);
+    }
+  }
+  
+  @keyframes pulse {
+    from {
+      opacity: 1;
+      transform: scale(1);
+    }
+    to {
+      opacity: .25;
+      transform: scale(.75);
+    }
+  }
+  
+  /* GRID STYLING */
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .spinner-box {
+    display: inline-block;
+    text-decoration: none;
+    height: 200px;
+    width: 200px;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+  }
+  
+  /* SOLAR SYSTEM */
+  
+  .solar-system {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .orbit {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 1px solid #000000;
+      border-radius: 50%;
+  } 
+  
+  .earth-orbit {
+      width: 165px;
+      height: 165px;
+    -webkit-animation: spin 24s linear -10s infinite;
+  }
+  
+  .venus-orbit {
+      width: 120px;
+      height: 120px;
+    -webkit-animation: spin 14.8s linear -4s infinite;
+  }
+  
+  .mercury-orbit {
+      width: 90px;
+      height: 90px;
+    -webkit-animation: spin 6s linear -3s infinite;
+  }
+  
+  .planet {
+      position: absolute;
+      top: -5px;
+    width: 10px;
+    height: 10px;
+      border-radius: 50%;
+    background-color: #389afc;
+  }
+  
+  .sun {
+      width: 35px;
+      height: 35px;
+      border-radius: 50%;
+      background-color: #FCB338;
+  }
+
+/* -------------------------------- */
