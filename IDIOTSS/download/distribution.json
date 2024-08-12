@@ -1158,6 +1158,9 @@
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
+          "required" : {
+            "value" : false
+          },
           "artifact": {
             "size": 9018,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/files/options.txt",
