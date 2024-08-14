@@ -5,14 +5,18 @@
         require_once(__DIR__."/scripts/createNav.php")
     ?>
     <body id="body">
+        <div id="background"></div>
         <?php createNav() ?>
-        <h1  class="title">Web design is my passion</h1>
+        <h1  class="title">IDIOTSS MINECRAFT SERVER</h1>
         <div class="content-links">
             <p class="url"><a href="<?php echo $path?>/dynmap">DYNMAP</a></p>
             <p class="url"><a href="<?php echo $path?>/train-map">TRAINS</a></p>
             <h3 class="url download"><a href="<?php echo $path?>/downloads/IDIOTSS Launcher-setup.exe">DOWNLOAD LAUNCHER<a></h3>
             <!-- <p class="url"><a href="<?php echo $path?>/downloads/changelog">CHANGELOG</a></p> -->
         </div>
+        <script language="JavaScript" type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <!-- <script language="JavaScript" type="text/javascript" src="/js/jquery-ui-personalized-1.5.2.packed.js"></script>
+        <script language="JavaScript" type="text/javascript" src="/js/sprinkle.js"></script> -->
         <script type = "text/javascript" src = "scripts/slide.js"></script>
     </body>
 </html>
