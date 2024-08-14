@@ -11,56 +11,6 @@ body {
   margin: 0;
 }
 
-#background {
-  /* background-image: url("/images/backgrounds/0.png"); */
-  height: 100%;
-  width: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: absolute;
-  z-index: -1;
-}
-
-.title {
-  text-align: center;
-  color: #389afc;
-  background-color: #FCB338;
-  margin-top: 0;
-  margin-bottom: 25px;
-  font-size: 75px;
-  /* height: 10%; */
-}
-
-.content-links {
-  margin-top: 10%;
-}
-
-.url {
-  text-align: center;
-  font-size: 50px;
-  background-color: white;
-  height: 75px;
-  margin: 1% auto;
-  border: 5px solid #389afc;
-  width: 350px;
-  border-radius: 10px;
-}
-
-.download {
-  width: 650px;
-}
-
-.url:hover {
-  background-color: black;
-  border: 5px solid black;
-}
-
-.url>a {
-  text-decoration: none;
-  color: #FCB338;
-}
-
 /* ---------- Stars ---------- */
 /* https://codepen.io/sarazond/pen/LYGbwj */
 
