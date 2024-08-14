@@ -5,6 +5,7 @@
         createHeader("Changelog", "List of changes");
     ?>
     <body>
+        <?php createNav() ?>
         <h1 style="color:hotpink">Changelog</h1>
         <h4>V3.0.1</h4>
         <ul>

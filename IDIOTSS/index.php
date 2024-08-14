@@ -4,13 +4,42 @@
         createHeader("IDIOTSS Website", "The best website ever");
         require_once(__DIR__."/scripts/createNav.php")
     ?>
-    <body>
-        <img src="<?php echo $path?>/images/egg.gif" style="display:inline-block" height=10%>
-        <h1 style="display:inline-block; color:hotpink">Web design is my passion</h1>
-        <img src="<?php echo $path?>/images/egg.gif" style="display:inline-block" height=10%>
-        <p><a href="<?php echo $path?>/dynmap">Dynmap</a></p>
-        <p><a href="<?php echo $path?>/train-map">Trains</a></p>
-        <p><a href="<?php echo $path?>/downloads">Downloads</a></p>
+    <body id="body">
+        <link rel="stylesheet" href="<?php echo $path?>/stylesheets/index.css">
+        <div id="background"></div>
+        <?php createNav() ?>
+        <h1  class="title">IDIOTSS MINECRAFT SERVER</h1>
+        <div class="content-links">
+            <div class="url">
+                <div id="hover">
+                    <div id='stars'></div>
+                    <div id='stars2'></div>
+                    <div id='stars3'></div>
+                </div>
+                <div class="a"><a href="<?php echo $path?>/dynmap">DYNMAP</a></div>
+            </div>
+            <div class="url">
+                <div id="hover">
+                    <div id='stars'></div>
+                    <div id='stars2'></div>
+                    <div id='stars3'></div>
+                </div>
+                <div class="a"><a href="<?php echo $path?>/train-map">TRAINS</a></div>
+            </div>
+            <h3 class="url download">
+                <div id="hover">
+                    <div id='stars'></div>
+                    <div id='stars2'></div>
+                    <div id='stars3'></div>
+                </div>
+                <div class="a"><a href="<?php echo $path?>/downloads/IDIOTSS Launcher-setup.exe">DOWNLOAD LAUNCHER<a></div>
+            </h3>
+            <!-- <p class="url"><a href="<?php echo $path?>/downloads/changelog">CHANGELOG</a></p> -->
+        </div>
+        <script language="JavaScript" type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+        <!-- <script language="JavaScript" type="text/javascript" src="/js/jquery-ui-personalized-1.5.2.packed.js"></script>
+        <script language="JavaScript" type="text/javascript" src="/js/sprinkle.js"></script> -->
+        <script type = "text/javascript" src = "scripts/slide.js"></script>
     </body>
 </html>
 

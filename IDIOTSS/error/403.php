@@ -6,5 +6,6 @@
     require_once(__DIR__."/../scripts/createNav.php");
     consoleLog("403 forbidden");
 ?>
+<?php createNav() ?>
 <h1>403</h1>
 <h2 style="font-weight: normal;">Forbidden</h2>
