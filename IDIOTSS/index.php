@@ -6,8 +6,8 @@
     ?>
     <body id="body">
         <?php createNav() ?>
-        <div class="content">
-            <h1  class="title">Web design is my passion</h1>
+        <h1  class="title">Web design is my passion</h1>
+        <div class="content-links">
             <p class="url"><a href="<?php echo $path?>/dynmap">DYNMAP</a></p>
             <p class="url"><a href="<?php echo $path?>/train-map">TRAINS</a></p>
             <h3 class="url download"><a href="<?php echo $path?>/downloads/IDIOTSS Launcher-setup.exe">DOWNLOAD LAUNCHER<a></h3>

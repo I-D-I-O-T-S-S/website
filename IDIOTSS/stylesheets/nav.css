@@ -25,6 +25,9 @@ body {
   height: 100px
 }
 
+.content-links {
+  margin-top: 10%;
+}
 
 .url {
   text-align: center;
