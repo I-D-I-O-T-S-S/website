@@ -1,29 +1,45 @@
 <?php
 require_once(__DIR__."/createHeaders.php");
 ?>
+
+<?php function CreateNav() {
+    $path = "http://".$_SERVER['HTTP_HOST'];
+?>
 <!-- Imports the stylesheet -->
 <link rel="stylesheet" href="<?php echo $path?>/stylesheets/nav.css">
 <nav>
-    <!-- This is the links at the top of the page it is currently only the SCCC logo -->
-    <div class="links">
-        <?php
-    $options = array(
-        // -------------------------- REALLY REALLY BAD WORKAROUND -------------------------- //
-        // Can't figure out how impliment text so just make a 1200 x 630 image with the text you want
-        array('link' => $path,       'image' => $path.'/favicon.png'),
-        array('link' => $path,       'image' => $path.'/favicon.png'),
-        array('link' => $path,       'image' => $path.'/favicon.png'),
-        array('link' => $path,       'image' => $path.'/favicon.png'),
-    );
-    ?>
-    <!-- I put the links as an array because it make for easy itieration on the nav bar -->
-    <?php foreach ($options as $option):?>
-        <a href="<?php echo $option['link'];?>" style="text-decoration: none;">
-            <img src="<?php echo $option['image'];?>" width="288px">
+    <div class="links" style="height: 200px;">
+        <!-- SOLAR SYSTEM from https://codepen.io/AlexWarnes/pen/jXYYKL -->
+        <a href="<?php echo $path;?>" style="display: inline-block; top: 0; position: absolute; z-index: 1;">
+            <div class="spinner-box">
+                <div class="solar-system">
+                    <div class="earth-orbit orbit">
+                        <div class="planet earth"></div>
+                        <div class="venus-orbit orbit">
+                            <div class="planet venus"></div>
+                            <div class="mercury-orbit orbit">
+                                <div class="planet mercury"></div>
+                                <div class="sun"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </a>
-    <?php endforeach;?>
+
+        <!-- https://codepen.io/sarazond/pen/LYGbwj -->
+        <div id="space">
+            <div class="blocker" id="blocker1"></div>
+            <div class="blocker" id="blocker2"></div>
+            <div class="blocker" id="blocker3"></div>
+            <div id='stars'></div>
+            <div id='stars2'></div>
+            <div id='stars3'></div>
+        </div>
+    </div>
+
 </nav>
 
-</div>
 <!-- Sets the background -->
 <div style="background-color:#389afc; height: 1vh;"></div>
+<?php }?>
