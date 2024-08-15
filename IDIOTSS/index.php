@@ -10,31 +10,36 @@
         <?php createNav() ?>
         <h1  class="title">IDIOTSS MINECRAFT SERVER</h1>
         <div class="content-links">
-            <div class="url">
-                <div id="hover">
-                    <div id='stars'></div>
-                    <div id='stars2'></div>
-                    <div id='stars3'></div>
+            <a href="<?php echo $path?>/dynmap">
+                <div class="url">
+                    <div id="hover">
+                        <div id='stars'></div>
+                        <div id='stars2'></div>
+                        <div id='stars3'></div>
+                    </div>
+                    <div class="a"><p class="link-text">DYNMAP</p></div>
                 </div>
-                <div class="a"><a href="<?php echo $path?>/dynmap">DYNMAP</a></div>
-            </div>
-            <div class="url">
-                <div id="hover">
-                    <div id='stars'></div>
-                    <div id='stars2'></div>
-                    <div id='stars3'></div>
+            </a>
+            <a href="<?php echo $path?>/train-map">
+                <div class="url">
+                    <div id="hover">
+                        <div id='stars'></div>
+                        <div id='stars2'></div>
+                        <div id='stars3'></div>
+                    </div>
+                    <div class="a"><p class="link-text">TRAINS</p></div>
                 </div>
-                <div class="a"><a href="<?php echo $path?>/train-map">TRAINS</a></div>
-            </div>
-            <h3 class="url download">
-                <div id="hover">
-                    <div id='stars'></div>
-                    <div id='stars2'></div>
-                    <div id='stars3'></div>
+            </a>
+            <a href="<?php echo $path?>/downloads/IDIOTSS Launcher-setup.exe">
+                <div class="url download">
+                    <div id="hover">
+                        <div id='stars'></div>
+                        <div id='stars2'></div>
+                        <div id='stars3'></div>
+                    </div>
+                    <div class="a"><h3 class="link-text">DOWNLOAD LAUNCHER<h3></div>
                 </div>
-                <div class="a"><a href="<?php echo $path?>/downloads/IDIOTSS Launcher-setup.exe">DOWNLOAD LAUNCHER<a></div>
-            </h3>
-            <!-- <p class="url"><a href="<?php echo $path?>/downloads/changelog">CHANGELOG</a></p> -->
+            </a>
         </div>
         <script language="JavaScript" type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
         <!-- <script language="JavaScript" type="text/javascript" src="/js/jquery-ui-personalized-1.5.2.packed.js"></script>

@@ -20,7 +20,7 @@
 }
 
 .content-links {
-    margin-top: 10%;
+    margin-top: 7.5%;
 }
 
 .url {
@@ -43,6 +43,10 @@
     width: 650px;
 }
 
+.download>.a>.link-text {
+    font-size: 50px;
+}
+
 .url>.a {
     position: relative;
     top: -95%;
@@ -50,9 +54,10 @@
     /* z-index: 10; */
 }
 
-.url>.a>a {
+.url>.a>.link-text {
     text-decoration: none;
     color: #FCB338;
+    margin: 0;
 }
 
 #hover {
