@@ -1016,7 +1016,8 @@
           "name": "options.txt",
           "type": "File",
           "required" : {
-            "value" : false
+            "value" : false,
+            "def" : false
           },
           "artifact": {
             "size": 9018,
