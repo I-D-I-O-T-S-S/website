@@ -41,10 +41,15 @@
 
 .download {
     width: 650px;
+    height: 100px;
 }
 
 .download>.a>.link-text {
     font-size: 50px;
+}
+
+.download>.a>.link-subtext {
+    font-size: 25px;
 }
 
 .url>.a {
@@ -55,6 +60,12 @@
 }
 
 .url>.a>.link-text {
+    text-decoration: none;
+    color: #FCB338;
+    margin: 0;
+}
+
+.url>.a>.link-subtext {
     text-decoration: none;
     color: #FCB338;
     margin: 0;

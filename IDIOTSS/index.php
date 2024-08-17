@@ -37,7 +37,7 @@
                         <div id='stars2'></div>
                         <div id='stars3'></div>
                     </div>
-                    <div class="a"><h3 class="link-text">DOWNLOAD LAUNCHER<h3></div>
+                    <div class="a"><h3 class="link-text">DOWNLOAD LAUNCHER</h3><p class="link-subtext">(WINDOWS)</p></div>
                 </div>
             </a>
         </div>
