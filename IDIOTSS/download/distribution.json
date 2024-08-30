@@ -676,9 +676,9 @@
           "name": "Create: Power Loader",
           "type": "ForgeMod",
           "artifact": {
-            "size": 223428,
+            "size": 223880,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_power_loader-1.5.0-mc1.20.1.jar",
-            "MD5": "fdc8e3662b921771c31057e112e58c26"
+            "MD5": "b73e9d29855d48c049e8334ea2e2a2a5"
           }
         },
         {
