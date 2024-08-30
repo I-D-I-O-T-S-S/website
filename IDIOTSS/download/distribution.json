@@ -1,95 +1,95 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.2.20",
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.0",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7400,
-            "MD5": "9445bd28cb8bbf3405bcacc54627a6da",
-            "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
+            "size": 7398,
+            "MD5": "d295c4a25914cc6486c2e501ef432b18",
+            "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.2.20",
+              "id": "1.20.1-47.3.0",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16922,
-                "MD5": "e33afa5bc25c738bc2d90559089e1bfe",
-                "url": "https://www.idiotss.com/download/repo/versions/1.20.1-forge-47.2.20/1.20.1-forge-47.2.20.json"
+                "size": 16542,
+                "MD5": "826cb4d525749099af9ecb33b732fb84",
+                "url": "https://www.idiotss.com/download/repo/versions/1.20.1-forge-47.3.0/1.20.1-forge-47.3.0.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.2.20",
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.0",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 118686,
-                "MD5": "a710f72f170f88737ff72a53ea1349d8",
-                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.20/fmlcore-1.20.1-47.2.20.jar"
+                "size": 118685,
+                "MD5": "2ef1c9adb09cc3592e5e7185c90570c9",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.2.20",
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.0",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16517,
-                "MD5": "3521da7e51982c2ace3a21ffe4070693",
-                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.20/javafmllanguage-1.20.1-47.2.20.jar"
+                "size": 16516,
+                "MD5": "f457a3acdf187aa53ca5cbac9a951fcf",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.2.20",
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.0",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4999,
-                "MD5": "4aeef0ba963dfbe0c4104b6532989988",
-                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.20/mclanguage-1.20.1-47.2.20.jar"
+                "size": 4998,
+                "MD5": "09464464e54df9838666d62cf151c2c0",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.2.20:universal",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.0:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2679250,
-                "MD5": "27de7a3f2e5c69d54bc52cb179831aa9",
-                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-universal.jar"
+                "size": 2753075,
+                "MD5": "4804c269e3b593655a9526743f455ef8",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.2.20:client",
+              "id": "net.minecraftforge:forge:1.20.1-47.3.0:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4791301,
-                "MD5": "c548aeb8e9e1cd028005b628b54f3a29",
-                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/forge/1.20.1-47.2.20/forge-1.20.1-47.2.20-client.jar"
+                "size": 4792900,
+                "MD5": "505bc8230f0e393e853739df4e71da99",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/forge/1.20.1-47.3.0/forge-1.20.1-47.3.0-client.jar"
               },
               "subModules": []
             },
@@ -140,53 +140,53 @@
               }
             },
             {
-              "id": "org.ow2.asm:asm:9.5",
+              "id": "org.ow2.asm:asm:9.7",
               "name": "Minecraft Forge (asm)",
               "type": "Library",
               "artifact": {
-                "size": 121863,
-                "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
-                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+                "size": 125428,
+                "MD5": "3957b18bf02a62edcb6726d074b90b08",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-commons:9.5",
+              "id": "org.ow2.asm:asm-commons:9.7",
               "name": "Minecraft Forge (asm-commons)",
               "type": "Library",
               "artifact": {
-                "size": 72209,
-                "MD5": "7d1fce986192f71722b19754e4cb9e61",
-                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+                "size": 73426,
+                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-tree:9.5",
+              "id": "org.ow2.asm:asm-tree:9.7",
               "name": "Minecraft Forge (asm-tree)",
               "type": "Library",
               "artifact": {
-                "size": 51944,
-                "MD5": "44755681b7d6fa7143afbb438e55c20c",
-                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+                "size": 51934,
+                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-util:9.5",
+              "id": "org.ow2.asm:asm-util:9.7",
               "name": "Minecraft Forge (asm-util)",
               "type": "Library",
               "artifact": {
-                "size": 91076,
-                "MD5": "ad0016249fb68bb9196babefd47b80dc",
-                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+                "size": 93784,
+                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
               }
             },
             {
-              "id": "org.ow2.asm:asm-analysis:9.5",
+              "id": "org.ow2.asm:asm-analysis:9.7",
               "name": "Minecraft Forge (asm-analysis)",
               "type": "Library",
               "artifact": {
-                "size": 33978,
-                "MD5": "4df0adafc78ebba404d4037987d36b61",
-                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+                "size": 34776,
+                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
+                "url": "https://www.idiotss.com/download/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
               }
             },
             {
@@ -230,13 +230,13 @@
               }
             },
             {
-              "id": "net.minecraftforge:coremods:5.0.1",
+              "id": "net.minecraftforge:coremods:5.1.6",
               "name": "Minecraft Forge (coremods)",
               "type": "Library",
               "artifact": {
-                "size": 24199,
-                "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "size": 24124,
+                "MD5": "4b4fe7e512819804660d621bf11c7381",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
               }
             },
             {
@@ -400,23 +400,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.2.20",
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.0",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 264185,
-                "MD5": "acee22eaf221c8cd61225002596f7640",
-                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.20/fmlloader-1.20.1-47.2.20.jar"
+                "size": 264538,
+                "MD5": "cad68c5d61009b7e94fac7150f3f1dcf",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.0/fmlloader-1.20.1-47.3.0.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.2.20",
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.0",
               "name": "Minecraft Forge (fmlearlydisplay)",
               "type": "Library",
               "artifact": {
-                "size": 170553,
-                "MD5": "b54b6fe4bd44788dcc6655f3399541f4",
-                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.20/fmlearlydisplay-1.20.1-47.2.20.jar"
+                "size": 170830,
+                "MD5": "572320060e2c3105df15da32091de640",
+                "url": "https://www.idiotss.com/download/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.0/fmlearlydisplay-1.20.1-47.3.0.jar"
               }
             }
           ]
