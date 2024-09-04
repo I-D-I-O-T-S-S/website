@@ -816,13 +816,13 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.18+mc1.20.1@jar",
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1267422,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/embeddium-0.3.18+mc1.20.1-all.jar",
-            "MD5": "55097e05dc1317d19e011faadad1af09"
+            "size": 1320675,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
         {
