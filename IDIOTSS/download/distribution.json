@@ -926,16 +926,6 @@
           }
         },
         {
-          "id": "snownee.jade.addon:jadeaddons:5.2.2@jar",
-          "name": "Jade Addons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 58529,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/JadeAddons-1.20.1-forge-5.2.2.jar",
-            "MD5": "2f1d72f5d532e421b360ecf8f8b31ba5"
-          }
-        },
-        {
           "id": "mezz.jei:jei:15.3.0.5@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
