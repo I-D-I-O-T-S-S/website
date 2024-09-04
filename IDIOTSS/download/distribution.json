@@ -1,12 +1,12 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -916,13 +916,23 @@
           }
         },
         {
-          "id": "snownee.jade:jade:11.9.1+forge@jar",
+          "id": "snownee.jade:jade:11.11.1+forge@jar",
           "name": "Jade",
           "type": "ForgeMod",
           "artifact": {
-            "size": 545771,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Jade-1.20.1-forge-11.9.1.jar",
-            "MD5": "b761dc521c74b7bd66f88de5c6c4f49d"
+            "size": 547726,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Jade-1.20.1-forge-11.11.1.jar",
+            "MD5": "fafa657e924a26031c174e7ab1484c8e"
+          }
+        },
+        {
+          "id": "snownee.jade.addon:jadeaddons:5.2.2@jar",
+          "name": "Jade Addons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 58529,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/JadeAddons-1.20.1-forge-5.2.2.jar",
+            "MD5": "2f1d72f5d532e421b360ecf8f8b31ba5"
           }
         },
         {
