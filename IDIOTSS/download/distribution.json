@@ -682,13 +682,13 @@
           }
         },
         {
-          "id": "com.simibubi:create:0.5.1.h@jar",
+          "id": "com.simibubi:create:0.5.1.f@jar",
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
-            "size": 15577849,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-0.5.1.h.jar",
-            "MD5": "edd670404374248e3529f4765d1f2dcb"
+            "size": 14964127,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
+            "MD5": "6a097aa0bfc73a4f8372a16e763f9f02"
           }
         },
         {
@@ -796,9 +796,9 @@
           "name": "Destroy",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7772375,
+            "size": 7771775,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/destroy-1.20.1-0.8.jar",
-            "MD5": "d3a58a8029231a28b17fc827b5c1fdcc"
+            "MD5": "8c59d026a4fb1701b1ce14d19e8d55c8"
           }
         },
         {
@@ -1056,13 +1056,13 @@
           }
         },
         {
-          "id": "com.railwayteam:railways:1.6.5+forge-mc1.20.1@jar",
+          "id": "com.railwayteam:railways:1.6.4+forge-mc1.20.1@jar",
           "name": "Create: Steam 'n' Rails",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9992052,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Steam_Rails-1.6.5+forge-mc1.20.1.jar",
-            "MD5": "8cca2d744c3daffd97be467f22803569"
+            "size": 9096035,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
+            "MD5": "a166aa861a8c584c89271731d882a45e"
           }
         },
         {
