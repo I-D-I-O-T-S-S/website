@@ -1,12 +1,12 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -502,13 +502,13 @@
           }
         },
         {
-          "id": "dan200.computercraft:computercraft:1.110.3@jar",
+          "id": "dan200.computercraft:computercraft:1.113.0@jar",
           "name": "CC: Tweaked",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3118151,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.110.3.jar",
-            "MD5": "bc7bba95d452bc1dd59e2270b0c58db3"
+            "size": 3168208,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.113.0.jar",
+            "MD5": "4d571e22b6ae0b995f5aa0b8d358088c"
           }
         },
         {
@@ -592,13 +592,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:corpse:1.20.1-1.0.12@jar",
+          "id": "de.maxhenkel:corpse:1.20.1-1.0.14@jar",
           "name": "Corpse",
           "type": "ForgeMod",
           "artifact": {
-            "size": 243182,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.12.jar",
-            "MD5": "227b67ff8736fdb9c8ed0b100201a2b9"
+            "size": 243748,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.14.jar",
+            "MD5": "a6f4636df407761c177fab2d485280cf"
           }
         },
         {
@@ -682,13 +682,13 @@
           }
         },
         {
-          "id": "com.simibubi:create:0.5.1.f@jar",
+          "id": "com.simibubi:create:0.5.1.h@jar",
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
-            "size": 14964127,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
-            "MD5": "6a097aa0bfc73a4f8372a16e763f9f02"
+            "size": 15577849,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-0.5.1.h.jar",
+            "MD5": "edd670404374248e3529f4765d1f2dcb"
           }
         },
         {
@@ -772,13 +772,13 @@
           }
         },
         {
-          "id": "de.mrjulsen.crn:createrailwaysnavigator:0.5.3-beta-1.20.1-forge@jar",
+          "id": "de.mrjulsen.crn:createrailwaysnavigator:1.20.1-0.5.5@jar",
           "name": "Create Railways Navigator",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2631662,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createrailwaysnavigator-0.5.3-beta-1.20.1-forge.jar",
-            "MD5": "60bb92b9f7f46be1c4a2d87387503aa6"
+            "size": 2003765,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
+            "MD5": "119e6cbb90dce7238bcdbcac85b767d0"
           }
         },
         {
@@ -1046,23 +1046,23 @@
           }
         },
         {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.3.1@jar",
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.5@jar",
           "name": "Sound Physics Remastered",
           "type": "ForgeMod",
           "artifact": {
-            "size": 174516,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.3.1.jar",
-            "MD5": "3118e7ce35093d154c6e9742933b8d6f"
+            "size": 196564,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
+            "MD5": "e819065ae0a3d034c7804e2b2e16a45f"
           }
         },
         {
-          "id": "com.railwayteam:railways:1.6.4+forge-mc1.20.1@jar",
+          "id": "com.railwayteam:railways:1.6.5+forge-mc1.20.1@jar",
           "name": "Create: Steam 'n' Rails",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9096035,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
-            "MD5": "a166aa861a8c584c89271731d882a45e"
+            "size": 9992052,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Steam_Rails-1.6.5+forge-mc1.20.1.jar",
+            "MD5": "8cca2d744c3daffd97be467f22803569"
           }
         },
         {
@@ -1096,13 +1096,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.14@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.21@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7704423,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.14.jar",
-            "MD5": "4fa0dc4efeaa356f3dca102ba30a3a6a"
+            "size": 7719985,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.21.jar",
+            "MD5": "3910b505142d2aeafba891dc7f20e183"
           }
         },
         {
@@ -1116,23 +1116,23 @@
           }
         },
         {
-          "id": "xaero.minimap:xaerominimap:24.1.1@jar",
+          "id": "xaero.minimap:xaerominimap:24.4.0@jar",
           "name": "Xaero's Minimap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1442805,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Xaeros_Minimap_24.1.1_Forge_1.20.jar",
-            "MD5": "dcfa04c04cde9d11484a88a930854afe"
+            "size": 1531047,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Xaeros_Minimap_24.4.0_Forge_1.20.jar",
+            "MD5": "8e6213d8af09b40282230f0dd3abdc7c"
           }
         },
         {
-          "id": "xaero.map:xaeroworldmap:1.38.4@jar",
+          "id": "xaero.map:xaeroworldmap:1.39.0@jar",
           "name": "Xaero's World Map",
           "type": "ForgeMod",
           "artifact": {
-            "size": 925318,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/XaerosWorldMap_1.38.4_Forge_1.20.jar",
-            "MD5": "b8bff8270301e1cf16954525c39c58e7"
+            "size": 930284,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/XaerosWorldMap_1.39.0_Forge_1.20.jar",
+            "MD5": "56bacc411ba41fbe016e9c53dbc283e6"
           }
         },
         {
