@@ -662,16 +662,6 @@
           }
         },
         {
-          "id": "net.lpcamors.optical:create_optical:0.1.1@jar",
-          "name": "Create Optical Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 250383,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_optical-0.1.1.jar",
-            "MD5": "ee68d65a54e396059d22d69339c3d79a"
-          }
-        },
-        {
           "id": "com.hlysine:create_power_loader:1.5.0-mc1.20.1@jar",
           "name": "Create: Power Loader",
           "type": "ForgeMod",
