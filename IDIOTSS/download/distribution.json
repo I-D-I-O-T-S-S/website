@@ -1,12 +1,12 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.5",
+      "version": "1.1.6",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -422,13 +422,13 @@
           ]
         },
         {
-          "id": "de.srendi:advancedperipherals:0.7.38r@jar",
+          "id": "de.srendi:advancedperipherals:0.7.40r@jar",
           "name": "Advanced Peripherals",
           "type": "ForgeMod",
           "artifact": {
-            "size": 855665,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/AdvancedPeripherals-1.20.1-0.7.38r.jar",
-            "MD5": "abae039a35f968b0563b8a346835fd4e"
+            "size": 873596,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/AdvancedPeripherals-1.20.1-0.7.40r.jar",
+            "MD5": "83040186597df3d3c1ebbfcd1ff7e181"
           }
         },
         {
@@ -502,13 +502,13 @@
           }
         },
         {
-          "id": "dan200.computercraft:computercraft:1.113.0@jar",
+          "id": "dan200.computercraft:computercraft:1.113.1@jar",
           "name": "CC: Tweaked",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3168208,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.113.0.jar",
-            "MD5": "4d571e22b6ae0b995f5aa0b8d358088c"
+            "size": 3063695,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.113.1.jar",
+            "MD5": "92b7b114f5ee6067b4f0eff1636817f2"
           }
         },
         {
@@ -572,13 +572,13 @@
           }
         },
         {
-          "id": "com.copycatsplus:copycats:1.20.1-1.2.6@jar",
+          "id": "com.copycatsplus:copycats:2.1.3+mc.1.20.1-forge@jar",
           "name": "Create: Copycats+",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1361980,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Copycats-forge.1.20.1-1.2.6.jar",
-            "MD5": "29354644c61d04989f57ec5d58fd0679"
+            "size": 1747334,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/copycats-2.1.3+mc.1.20.1-forge.jar",
+            "MD5": "c8df010e4749d9c98bb838bf851bd928"
           }
         },
         {
@@ -598,7 +598,7 @@
           "artifact": {
             "size": 243748,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.14.jar",
-            "MD5": "a6f4636df407761c177fab2d485280cf"
+            "MD5": "e2c21589fc1545e3993e357148f7f8b6"
           }
         },
         {
@@ -632,16 +632,6 @@
           }
         },
         {
-          "id": "com.cyvack:create_crystal_clear:1.20.1 - 0.1.1e@jar",
-          "name": "Create: Crystal Clear",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 286035,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_crystal_clear-1.0.jar",
-            "MD5": "200a6a8cfbd03bc0ad8ab9b77dca2932"
-          }
-        },
-        {
           "id": "plus.dragons.createenchantmentindustry:create_enchantment_industry:1.2.9.d@jar",
           "name": "Create Enchantment Industry",
           "type": "ForgeMod",
@@ -662,13 +652,13 @@
           }
         },
         {
-          "id": "com.possible_triangle:create_jetpack:4.2.1@jar",
+          "id": "com.possible_triangle:create_jetpack:4.3.1@jar",
           "name": "Create Jetpack",
           "type": "ForgeMod",
           "artifact": {
-            "size": 229959,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_jetpack-forge-4.2.1.jar",
-            "MD5": "168b88373d42322155c84b87b16a48ce"
+            "size": 224877,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_jetpack-forge-4.3.1.jar",
+            "MD5": "691dcbaa87eae0cfd99ddb23f9fb35c3"
           }
         },
         {
@@ -682,13 +672,13 @@
           }
         },
         {
-          "id": "com.simibubi:create:0.5.1.f@jar",
+          "id": "com.simibubi:create:0.5.1.h@jar",
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
-            "size": 14964127,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
-            "MD5": "6a097aa0bfc73a4f8372a16e763f9f02"
+            "size": 15577849,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-0.5.1.h.jar",
+            "MD5": "edd670404374248e3529f4765d1f2dcb"
           }
         },
         {
@@ -722,13 +712,13 @@
           }
         },
         {
-          "id": "rbasamoyai.createbigcannons:createbigcannons:0.5.4-nightly-8b9cea6@jar",
+          "id": "rbasamoyai.createbigcannons:createbigcannons:5.5.1+mc.1.20.1-forge@jar",
           "name": "Create Big Cannons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2656377,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createbigcannons-forge-1.20.1-0.5.4.jar",
-            "MD5": "fc52529a8358bd3c8dc7ce6ad2bd76c2"
+            "size": 3943067,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createbigcannons-5.5.1+mc.1.20.1-forge.jar",
+            "MD5": "cfb7d6db1c42b7aacf94865e72b255fe"
           }
         },
         {
@@ -752,13 +742,13 @@
           }
         },
         {
-          "id": "com.jesz:createdieselgenerators:1.20.1-1.2h@jar",
+          "id": "com.jesz:createdieselgenerators:1.20.1-1.2i@jar",
           "name": "Create Diesel Generators",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1943183,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createdieselgenerators-1.20.1-1.2h.jar",
-            "MD5": "5a40667156fcff4e4e1a54ac4db46900"
+            "size": 1943145,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createdieselgenerators-1.20.1-1.2i.jar",
+            "MD5": "86d2d812dd65181683230e79d1585d58"
           }
         },
         {
@@ -782,13 +772,23 @@
           }
         },
         {
-          "id": "top.theillusivec4:curios:5.9.0+1.20.1@jar",
+          "id": "com.cyvack:crystal_clear:2.1-Beta@jar",
+          "name": "Create: Crystal Clear",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 200048,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Crystal-Clear-2.1-Beta-forge.jar",
+            "MD5": "bb84d517f37f2e405c1cf21b69758113"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.10.0+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 382848,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/curios-forge-5.9.0+1.20.1.jar",
-            "MD5": "c9ffab8c8b77171281588dc8c64868c9"
+            "size": 384929,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/curios-forge-5.10.0+1.20.1.jar",
+            "MD5": "73c3942efd83fdfe91c781f3e4119714"
           }
         },
         {
@@ -836,13 +836,13 @@
           }
         },
         {
-          "id": "io.github.mortuusars:exposure:1.6.0@jar",
+          "id": "io.github.mortuusars:exposure:1.7.6@jar",
           "name": "Exposure",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1042369,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/exposure-1.20.1-1.6.0-forge.jar",
-            "MD5": "2b788c2977d070db6e4c1295756dc2e0"
+            "size": 1316849,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/exposure-1.20.1-1.7.6-forge.jar",
+            "MD5": "564fcbc229364d9bf507a27c332e4ec4"
           }
         },
         {
@@ -866,13 +866,13 @@
           }
         },
         {
-          "id": "xfacthd.framedblocks:framedblocks:9.2.2@jar",
+          "id": "xfacthd.framedblocks:framedblocks:9.3.0@jar",
           "name": "FramedBlocks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4076627,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/FramedBlocks-9.2.2.jar",
-            "MD5": "e0653206455a50c9392276c119b6c03c"
+            "size": 4117574,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/FramedBlocks-9.3.0.jar",
+            "MD5": "ab2d69696c28b1adab91d79bc70e0da4"
           }
         },
         {
@@ -886,13 +886,13 @@
           }
         },
         {
-          "id": "net.dakotapride:garnished:1.7.2+1.20.1@jar",
+          "id": "net.dakotapride:garnished:1.9.8@jar",
           "name": "Create: Garnished",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1557463,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/garnished-1.7.2+1.20.1.jar",
-            "MD5": "3ccb0d9ffbde887e039d3caedb07746f"
+            "size": 3111207,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/garnished-1.9.8+1.20.1-neoforged.jar",
+            "MD5": "c300e45e7cc9345622810a77855eea58"
           }
         },
         {
@@ -926,13 +926,13 @@
           }
         },
         {
-          "id": "snownee.jade.addon:jadeaddons:5.2.2@jar",
+          "id": "snownee.jade.addon:jadeaddons:5.3.1+forge@jar",
           "name": "Jade Addons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 58529,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/JadeAddons-1.20.1-forge-5.2.2.jar",
-            "MD5": "2f1d72f5d532e421b360ecf8f8b31ba5"
+            "size": 77839,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/JadeAddons-1.20.1-Forge-5.3.1.jar",
+            "MD5": "41662ef8645177cc3f90fc34007563df"
           }
         },
         {
@@ -956,13 +956,13 @@
           }
         },
         {
-          "id": "generated.forgemod:kotlinforforge:4.10.0-all@jar",
+          "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
           "name": "Kotlinforforge",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7778600,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/kotlinforforge-4.10.0-all.jar",
-            "MD5": "66104f85db917822d99311bcb6c71f97"
+            "size": 7193768,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
+            "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
           }
         },
         {
@@ -996,13 +996,13 @@
           }
         },
         {
-          "id": "com.teamresourceful:resourcefullib:2.1.24@jar",
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
           "name": "Resourceful Lib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 424237,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.24.jar",
-            "MD5": "559fc9800f1ccbc4a182c7af0cf506c6"
+            "size": 432753,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "MD5": "a040c6cc86f653fddf280ff3af9068f0"
           }
         },
         {
@@ -1016,33 +1016,33 @@
           }
         },
         {
-          "id": "com.possible_triangle:sliceanddice:3.2.0@jar",
+          "id": "com.possible_triangle:sliceanddice:3.2.1@jar",
           "name": "Create Slice & Dice",
           "type": "ForgeMod",
           "artifact": {
-            "size": 224151,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sliceanddice-forge-3.2.0.jar",
-            "MD5": "35a44bc2f244fdc72f692c0d974ef66f"
+            "size": 228307,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sliceanddice-forge-3.2.1.jar",
+            "MD5": "63aa900b128d75c6a258f21c5a825694"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.5.1044@jar",
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.6.1064@jar",
           "name": "Sophisticated Backpacks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 851750,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.5.1044.jar",
-            "MD5": "1cb86d978ee8780206de685497d1faf0"
+            "size": 851844,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.6.1064.jar",
+            "MD5": "6fbc4b9b2513acc8241cd9c6e880a8c3"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.22.611@jar",
+          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.25.632@jar",
           "name": "Sophisticated Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1080551,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.22.611.jar",
-            "MD5": "3569d694bccc0e8e35ab7707b4baf0b1"
+            "size": 1081218,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.25.632.jar",
+            "MD5": "c44bfdaa2f5ee76a7f4ab78f6d01ea8a"
           }
         },
         {
@@ -1056,23 +1056,23 @@
           }
         },
         {
-          "id": "com.railwayteam:railways:1.6.4+forge-mc1.20.1@jar",
+          "id": "com.railwayteam:railways:1.6.5+forge-mc1.20.1@jar",
           "name": "Create: Steam 'n' Rails",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9096035,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Steam_Rails-1.6.4+forge-mc1.20.1.jar",
-            "MD5": "a166aa861a8c584c89271731d882a45e"
+            "size": 9992052,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Steam_Rails-1.6.5+forge-mc1.20.1.jar",
+            "MD5": "8cca2d744c3daffd97be467f22803569"
           }
         },
         {
-          "id": "com.jaquadro.minecraft:storagedrawers:12.0.3@jar",
+          "id": "com.jaquadro.minecraft:storagedrawers:12.6.5@jar",
           "name": "Storage Drawers",
           "type": "ForgeMod",
           "artifact": {
-            "size": 583143,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/storagedrawers-1.20.1-12.0.3.jar",
-            "MD5": "c3931732aba75370208269b7e3a92b6d"
+            "size": 713258,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/StorageDrawers-1.20.1-12.6.5.jar",
+            "MD5": "ec47991f25848050867e46c290a19447"
           }
         },
         {
@@ -1096,13 +1096,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.21@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.22@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7719985,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.21.jar",
-            "MD5": "3910b505142d2aeafba891dc7f20e183"
+            "size": 7726437,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.22.jar",
+            "MD5": "8e10b4dd1c22b6addbaff441f4e5c8b1"
           }
         },
         {
@@ -1136,13 +1136,13 @@
           }
         },
         {
-          "id": "xerca.xercapaint:xercapaint:1.20.1-1.0.0@jar",
+          "id": "xerca.xercapaint:xercapaint:1.20.1-1.0.1@jar",
           "name": "Joy of Painting",
           "type": "ForgeMod",
           "artifact": {
-            "size": 397719,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/xercapaint-1.20.1-1.0.0.jar",
-            "MD5": "553f1fbfd40fc86fe71a342c7be3091d"
+            "size": 400817,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/xercapaint-1.20.1-1.0.1.jar",
+            "MD5": "11a97dc9e22c79724b82baf209ba74cd"
           }
         },
         {
