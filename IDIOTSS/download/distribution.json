@@ -1,12 +1,12 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.6",
+      "version": "1.1.7",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -662,6 +662,16 @@
           }
         },
         {
+          "id": "net.lpcamors.optical:create_optical:0.1.1@jar",
+          "name": "Create Optical Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 250383,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_optical-0.1.1.jar",
+            "MD5": "ee68d65a54e396059d22d69339c3d79a"
+          }
+        },
+        {
           "id": "com.hlysine:create_power_loader:1.5.0-mc1.20.1@jar",
           "name": "Create: Power Loader",
           "type": "ForgeMod",
@@ -796,19 +806,19 @@
           "name": "Destroy",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7771775,
+            "size": 7772058,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/destroy-1.20.1-0.8.jar",
-            "MD5": "8c59d026a4fb1701b1ce14d19e8d55c8"
+            "MD5": "74428e4453a4a1e623a59d67d8645b9f"
           }
         },
         {
-          "id": "com.seibel:distanthorizons:2.2.1-a-dev@jar",
+          "id": "com.seibel:distanthorizons:2.2.2-a-dev@jar",
           "name": "Distant Horizons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 15962920,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/optionaloff/DistantHorizons-forge-2.2.1-a-dev-1.20.1.jar",
-            "MD5": "f582e1695b0cc79e47e475becaac3f2d"
+            "size": 15973424,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/optionaloff/DistantHorizons-forge-2.2.2-a-dev-1.20.1.jar",
+            "MD5": "f9e208d8b9063a104b3df0e018d84060"
           },
           "required": {
             "value": false,
