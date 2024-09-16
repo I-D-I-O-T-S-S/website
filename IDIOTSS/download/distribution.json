@@ -522,6 +522,16 @@
           }
         },
         {
+          "id": "tk.skmserver.ccdbridge.common.modloader:ccdbridge:1.1.0@jar",
+          "name": "Ccdbridge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12654,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/ccdbridge-1.1.0.jar",
+            "MD5": "a8e440341c174bb71ad0c8fb9833347b"
+          }
+        },
+        {
           "id": "chessmod:chessmod:1.20.1-0.701@jar",
           "name": "Chess Mod",
           "type": "ForgeMod",
