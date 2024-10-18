@@ -662,13 +662,13 @@
           }
         },
         {
-          "id": "com.possible_triangle:create_jetpack:4.3.1@jar",
+          "id": "com.possible_triangle:create_jetpack:4.3.2@jar",
           "name": "Create Jetpack",
           "type": "ForgeMod",
           "artifact": {
-            "size": 224877,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_jetpack-forge-4.3.1.jar",
-            "MD5": "691dcbaa87eae0cfd99ddb23f9fb35c3"
+            "size": 224988,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_jetpack-forge-4.3.2.jar",
+            "MD5": "c1b5d98f152a942d1a5ee52b63c97b0c"
           }
         },
         {
