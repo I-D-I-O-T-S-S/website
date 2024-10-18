@@ -44,28 +44,28 @@
     height: 100px;
 }
 
-.download>.a>.link-text {
+.download>a>.a>.link-text {
     font-size: 50px;
 }
 
-.download>.a>.link-subtext {
+.download>a>.a>.link-subtext {
     font-size: 25px;
 }
 
-.url>.a {
+.url>a>.a {
     position: relative;
-    top: -95%;
+    top: -110%;
     display: inline-block;
     /* z-index: 10; */
 }
 
-.url>.a>.link-text {
+.url>a>.a>.link-text {
     text-decoration: none;
     color: #FCB338;
     margin: 0;
 }
 
-.url>.a>.link-subtext {
+.url>a>.a>.link-subtext {
     text-decoration: none;
     color: #FCB338;
     margin: 0;
