@@ -18,6 +18,6 @@ jobs:
           repository: 'I-D-I-O-T-S-S/website'
           lfs: false
       - name: Get build number
-        run: echo ${{github.run_number}} > version.txt
+        run: echo ${{github.run_number}},${{github.sha}} > version.txt
 
             
