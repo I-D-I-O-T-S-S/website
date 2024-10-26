@@ -3,8 +3,11 @@
         require_once(__DIR__."/../scripts/createHeaders.php");
         require_once(__DIR__."/../scripts/createNav.php");
         createHeader("Changelog", "List of changes");
+
+        require_once(__DIR__."/../scripts/createFooter.php");
     ?>
     <body>
+    <div class="content">
         <?php createNav() ?>
         <h1 style="color:hotpink">Changelog</h1>
         <h4>V3.0.1</h4>
@@ -12,5 +15,7 @@
             <li>Updated Create: Numismatics from 1.0.4 to 1.0.6</li>
         </ul>
         <p><a href="<?php echo $path?>/downloads">Back</a></p>
+    </div>
+    <?php createFooter() ?>
     </body>
 </html>

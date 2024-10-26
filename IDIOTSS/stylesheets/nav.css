@@ -11,6 +11,10 @@ body {
   margin: 0;
 }
 
+.content {
+  height: 100vh;
+}
+
 /* ---------- Stars ---------- */
 /* https://codepen.io/sarazond/pen/LYGbwj */
 
