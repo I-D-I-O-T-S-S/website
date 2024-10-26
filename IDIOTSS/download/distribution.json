@@ -1,12 +1,12 @@
 {
-  "version": "1.1.9",
+  "version": "1.1.10",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.9",
+      "version": "1.1.10",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -762,13 +762,13 @@
           }
         },
         {
-          "id": "dev.ithundxr.createnumismatics:numismatics:1.0.6+forge-mc1.20.1@jar",
+          "id": "dev.ithundxr.createnumismatics:numismatics:1.1.0+forge-mc1.20.1-build.541@jar",
           "name": "Create: Numismatics",
           "type": "ForgeMod",
           "artifact": {
-            "size": 884314,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/CreateNumismatics-1.0.6+forge-mc1.20.1.jar",
-            "MD5": "0d8c3c8e5cdf8a6a65009d592d31d7c3"
+            "size": 1314609,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/CreateNumismatics-forge-1.20.1-1.1.0+forge-mc1.20.1-build.541.jar",
+            "MD5": "d35f24c1da99a63ac8dd5bea056eef88"
           }
         },
         {
