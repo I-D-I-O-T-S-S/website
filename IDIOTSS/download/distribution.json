@@ -1,12 +1,12 @@
 {
-  "version": "1.1.10",
+  "version": "1.1.11",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.10",
+      "version": "1.1.11",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -812,13 +812,13 @@
           }
         },
         {
-          "id": "com.seibel:distanthorizons:2.2.2-a-dev@jar",
+          "id": "com.seibel:distanthorizons:2.3.0-a-dev@jar",
           "name": "Distant Horizons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 15973424,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/optionaloff/DistantHorizons-forge-2.2.2-a-dev-1.20.1.jar",
-            "MD5": "f9e208d8b9063a104b3df0e018d84060"
+            "size": 16885818,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/optionaloff/DistantHorizons-forge-2.3.0-a-dev-1.20.1.jar",
+            "MD5": "d0eb5e12d84ff840d951ed919b707abc"
           },
           "required": {
             "value": false,
