@@ -1,12 +1,12 @@
 {
-  "version": "1.1.11",
+  "version": "1.1.12",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.11",
+      "version": "1.1.12",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -799,6 +799,16 @@
             "size": 384929,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/curios-forge-5.10.0+1.20.1.jar",
             "MD5": "73c3942efd83fdfe91c781f3e4119714"
+          }
+        },
+        {
+          "id": "com.mangomilk:design_decor:0.4.0b@jar",
+          "name": "Create: Design n' Decor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2439693,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/design_decor-0.4.0b-1.20.1.jar",
+            "MD5": "0448b0a460b69c9f1bed3c0da9aa73c1"
           }
         },
         {
