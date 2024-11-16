@@ -1,12 +1,12 @@
 {
-  "version": "1.1.12",
+  "version": "1.1.13",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.12",
+      "version": "1.1.13",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -1093,16 +1093,6 @@
             "size": 713258,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/StorageDrawers-1.20.1-12.6.5.jar",
             "MD5": "ec47991f25848050867e46c290a19447"
-          }
-        },
-        {
-          "id": "de.mrjulsen:trainperspectivefix:1.0.0-1.18.2@jar",
-          "name": "Create: Train Perspective Fix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 82555,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/trainperspectivefix-1.0.0-universal.jar",
-            "MD5": "9387c6329cc5eb418e5ec928e67e3c0c"
           }
         },
         {
