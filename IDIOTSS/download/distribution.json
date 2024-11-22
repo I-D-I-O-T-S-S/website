@@ -1,12 +1,12 @@
 {
-  "version": "1.1.13",
+  "version": "1.1.14",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.13",
+      "version": "1.1.14",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -452,6 +452,16 @@
           }
         },
         {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
           "id": "moe.plushie.armourers_workshop.compatibility:armourers_workshop:3.0.0-beta.13@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
@@ -582,13 +592,13 @@
           }
         },
         {
-          "id": "com.copycatsplus:copycats:2.1.3+mc.1.20.1-forge@jar",
+          "id": "com.copycatsplus:copycats:2.1.4+mc.1.20.1-forge@jar",
           "name": "Create: Copycats+",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1747334,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/copycats-2.1.3+mc.1.20.1-forge.jar",
-            "MD5": "c8df010e4749d9c98bb838bf851bd928"
+            "size": 1747441,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/copycats-2.1.4+mc.1.20.1-forge.jar",
+            "MD5": "e4c60c4625db2de2b93f460506e986f7"
           }
         },
         {
@@ -722,13 +732,13 @@
           }
         },
         {
-          "id": "rbasamoyai.createbigcannons:createbigcannons:5.5.1+mc.1.20.1-forge@jar",
+          "id": "rbasamoyai.createbigcannons:createbigcannons:5.6.0+mc.1.20.1-forge@jar",
           "name": "Create Big Cannons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3943067,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createbigcannons-5.5.1+mc.1.20.1-forge.jar",
-            "MD5": "cfb7d6db1c42b7aacf94865e72b255fe"
+            "size": 3968812,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createbigcannons-5.6.0+mc.1.20.1-forge.jar",
+            "MD5": "087d012aeecdb0c59a89114514ce8188"
           }
         },
         {
@@ -739,6 +749,16 @@
             "size": 385855,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createcafe-1.2.4-1.20.1.jar",
             "MD5": "ed05a2a9a228ad6694e7d684c1ccec40"
+          }
+        },
+        {
+          "id": "net.createcobblestone:createcobblestone:1.4.1-beta-4+forge-1.20.1-72@jar",
+          "name": "Create cobblestone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 567440,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createcobblestone-1.4.1-beta-4+forge-1.20.1-72.jar",
+            "MD5": "179984246cba181fcad345f7eea5ed1c"
           }
         },
         {
@@ -772,13 +792,13 @@
           }
         },
         {
-          "id": "de.mrjulsen.crn:createrailwaysnavigator:1.20.1-0.5.5@jar",
+          "id": "de.mrjulsen.crn:createrailwaysnavigator:1.20.1-0.6.0@jar",
           "name": "Create Railways Navigator",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2003765,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createrailwaysnavigator-forge-1.20.1-0.5.5.jar",
-            "MD5": "119e6cbb90dce7238bcdbcac85b767d0"
+            "size": 2724565,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createrailwaysnavigator-forge-1.20.1-0.6.0.jar",
+            "MD5": "4f7410eb44948310b9c0e64cec0d550d"
           }
         },
         {
@@ -906,13 +926,13 @@
           }
         },
         {
-          "id": "net.dakotapride:garnished:1.9.8@jar",
+          "id": "net.dakotapride:garnished:2.0.2@jar",
           "name": "Create: Garnished",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3111207,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/garnished-1.9.8+1.20.1-neoforged.jar",
-            "MD5": "c300e45e7cc9345622810a77855eea58"
+            "size": 3199658,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/garnished-2.0.2+1.20.1-neoforged.jar",
+            "MD5": "f2b91c78f267aa778a5cce347ca1d6a2"
           }
         },
         {
@@ -1016,6 +1036,16 @@
           }
         },
         {
+          "id": "com.cak.pattern_schematics:create_pattern_schematics:1.1.15+forge-1.20.1@jar",
+          "name": "Create: Pattern Schematics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 214226,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/pattern_schematics-1.1.15+forge-1.20.1.jar",
+            "MD5": "85c242fb4ccb246c7a1ac01cbce451d9"
+          }
+        },
+        {
           "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
           "name": "Resourceful Lib",
           "type": "ForgeMod",
@@ -1036,13 +1066,13 @@
           }
         },
         {
-          "id": "com.possible_triangle:sliceanddice:3.2.1@jar",
+          "id": "com.possible_triangle:sliceanddice:3.3.0@jar",
           "name": "Create Slice & Dice",
           "type": "ForgeMod",
           "artifact": {
-            "size": 228307,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sliceanddice-forge-3.2.1.jar",
-            "MD5": "63aa900b128d75c6a258f21c5a825694"
+            "size": 1021924,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sliceanddice-forge-3.3.0.jar",
+            "MD5": "27aa1f2cd3dd93de1e59425760684068"
           }
         },
         {
@@ -1086,13 +1116,23 @@
           }
         },
         {
-          "id": "com.jaquadro.minecraft:storagedrawers:12.6.5@jar",
+          "id": "com.jaquadro.minecraft:storagedrawers:12.9.12@jar",
           "name": "Storage Drawers",
           "type": "ForgeMod",
           "artifact": {
-            "size": 713258,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/StorageDrawers-1.20.1-12.6.5.jar",
-            "MD5": "ec47991f25848050867e46c290a19447"
+            "size": 947390,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/StorageDrawers-1.20.1-12.9.12.jar",
+            "MD5": "2b8b70cd7f272d82555ab12eb50ef5c7"
+          }
+        },
+        {
+          "id": "com.cak:trading_floor:1.1.3+forge-1.20.1@jar",
+          "name": "Create: Trading Floor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 282256,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/trading_floor-1.1.3+forge-1.20.1.jar",
+            "MD5": "447e76706c0857647e3f0878d2841030"
           }
         },
         {
