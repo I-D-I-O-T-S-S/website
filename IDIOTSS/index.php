@@ -12,7 +12,7 @@
         <?php createNav() ?>
         <h1  class="title">IDIOTSS MINECRAFT SERVER</h1>
         <div class="content-links">
-            <a href="<?php echo $path?>/dynmap">
+            <a href="<?php echo $path?>/bluemap">
                 <div class="url">
                     <span></span>
                     <div id="hover">
@@ -20,7 +20,7 @@
                         <div id='stars2'></div>
                         <div id='stars3'></div>
                     </div>
-                    <div class="a"><p class="link-text">DYNMAP</p></div>
+                    <div class="a"><p class="link-text">BLUEMAP</p></div>
                 </div>
             </a>
             <a href="<?php echo $path?>/train-map">
