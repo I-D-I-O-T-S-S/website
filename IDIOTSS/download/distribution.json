@@ -1,12 +1,12 @@
 {
-  "version": "1.1.15",
+  "version": "1.1.16",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.15",
+      "version": "1.1.16",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -1033,6 +1033,16 @@
             "size": 366047,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/nethersdelight-1.20.1-4.0.jar",
             "MD5": "0d8e8162742fef314467ab1bdaac67b0"
+          }
+        },
+        {
+          "id": "com.lightning:northstar:${0.1cb-1.20.1}@jar",
+          "name": "Northstar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13538519,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/northstar-0.1cb-1.20.1.jar",
+            "MD5": "e2d9b00938a79452411d270229f1da26"
           }
         },
         {
