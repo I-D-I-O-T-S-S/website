@@ -842,13 +842,13 @@
           }
         },
         {
-          "id": "com.seibel:distanthorizons:2.3.0-a-dev@jar",
+          "id": "com.seibel:distanthorizons:2.3.0-b-dev@jar",
           "name": "Distant Horizons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16885818,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/optionaloff/DistantHorizons-forge-2.3.0-a-dev-1.20.1.jar",
-            "MD5": "d0eb5e12d84ff840d951ed919b707abc"
+            "size": 16893359,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/optionaloff/DistantHorizons-forge-2.3.0-b-dev-1.20.1.jar",
+            "MD5": "4c4226c0307135ac199314cdbc08a9e2"
           },
           "required": {
             "value": false,
