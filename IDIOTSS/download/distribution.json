@@ -1,12 +1,12 @@
 {
-  "version": "1.1.17",
+  "version": "1.1.18",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.17",
+      "version": "1.1.18",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -1226,13 +1226,13 @@
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.5@jar",
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.6@jar",
           "name": "YUNG's API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 365910,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.5.jar",
-            "MD5": "199469c1e63278dd21721860125e12ec"
+            "size": 370524,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
           }
         },
         {
