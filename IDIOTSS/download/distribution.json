@@ -1,12 +1,12 @@
 {
-  "version": "1.1.16",
+  "version": "1.1.17",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.16",
+      "version": "1.1.17",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -512,13 +512,13 @@
           }
         },
         {
-          "id": "dan200.computercraft:computercraft:1.113.1@jar",
+          "id": "dan200.computercraft:computercraft:1.114.2@jar",
           "name": "CC: Tweaked",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3063695,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.113.1.jar",
-            "MD5": "92b7b114f5ee6067b4f0eff1636817f2"
+            "size": 3096177,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.114.2.jar",
+            "MD5": "6acea205fd4f2f585716b8b252a55efb"
           }
         },
         {
@@ -1076,13 +1076,13 @@
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:ribbits:1.20.1-Forge-3.0.0@jar",
+          "id": "com.yungnickyoung.minecraft:ribbits:1.20.1-Forge-3.0.2@jar",
           "name": "Ribbits",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2084525,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Ribbits-1.20.1-Forge-3.0.0.jar",
-            "MD5": "33588d3bd9a078640180b66aad9b630a"
+            "size": 2158381,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Ribbits-1.20.1-Forge-3.0.2.jar",
+            "MD5": "a52a5a6c0cc861818fc2f5194b41d592"
           }
         },
         {
