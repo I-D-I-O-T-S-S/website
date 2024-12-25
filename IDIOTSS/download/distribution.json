@@ -1,12 +1,12 @@
 {
-  "version": "1.1.18",
+  "version": "1.1.19",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.18",
+      "version": "1.1.19",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -1086,13 +1086,13 @@
           }
         },
         {
-          "id": "com.codinglitch:simpleradio:2.4.6.1@jar",
+          "id": "com.codinglitch:simpleradio:3.4.6.1@jar",
           "name": "SimpleRadio",
           "type": "ForgeMod",
           "artifact": {
-            "size": 284128,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/SimpleRadio-forge-1.20.1-2.4.6.1.jar",
-            "MD5": "fdaac552a1ad0d80a251fc1eaadba9e7"
+            "size": 590355,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/SimpleRadio-forge-1.20.1-3.0.0-beta.jar",
+            "MD5": "6a3838e3aa83ad8e1df646c4c8094df5"
           }
         },
         {
