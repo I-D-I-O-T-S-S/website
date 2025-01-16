@@ -1,12 +1,12 @@
 {
-  "version": "1.1.19",
+  "version": "1.1.20",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.19",
+      "version": "1.1.20",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -692,6 +692,16 @@
           }
         },
         {
+          "id": "generated.forgemod:create_trimmed:1.0.0@jar",
+          "name": "Create: Trimmed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50177,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_trimmed.jar",
+            "MD5": "475737307dd7b6b9c4694659c6a41370"
+          }
+        },
+        {
           "id": "com.simibubi:create:0.5.1.j@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -1013,6 +1023,16 @@
             "size": 38240,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Lexiconfig-forge-1.3.11.jar",
             "MD5": "729bdf3a3c0adb82d1c43ded9dc50b4b"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
+          "name": "Mouse Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76237,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
           }
         },
         {
