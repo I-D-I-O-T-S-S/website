@@ -1,12 +1,12 @@
 {
-  "version": "1.1.20",
+  "version": "1.1.21",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "1.1.20",
+      "version": "1.1.21",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -802,13 +802,13 @@
           }
         },
         {
-          "id": "de.mrjulsen.crn:createrailwaysnavigator:1.20.1-0.6.0@jar",
+          "id": "de.mrjulsen.crn:createrailwaysnavigator:1.20.1-beta-0.7.2@jar",
           "name": "Create Railways Navigator",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2724565,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createrailwaysnavigator-forge-1.20.1-0.6.0.jar",
-            "MD5": "4f7410eb44948310b9c0e64cec0d550d"
+            "size": 2968793,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createrailwaysnavigator-forge-1.20.1-beta-0.7.2.jar",
+            "MD5": "fa5d59baaa4b6a10a6631aec5c938074"
           }
         },
         {
