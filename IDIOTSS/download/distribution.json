@@ -1,12 +1,12 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.1",
+      "version": "2.0.2",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -442,6 +442,16 @@
           }
         },
         {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439457,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+          }
+        },
+        {
           "id": "dan200.computercraft:computercraft:1.115.1@jar",
           "name": "CC: Tweaked",
           "type": "ForgeMod",
@@ -599,6 +609,26 @@
             "size": 1048567,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/emi-1.1.22+1.20.1+forge.jar",
             "MD5": "441c582c6e8a1d6fd9e3d16a27c1a39e"
+          }
+        },
+        {
+          "id": "io.github.prismwork:emiffect:1.1.2+mc1.20.1@jar",
+          "name": "EMIffect",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19646,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/emiffect-forge-1.1.2+mc1.20.1.jar",
+            "MD5": "7bbf2905c311d974f04b2312885d0f46"
+          }
+        },
+        {
+          "id": "io.github.prismwork:emitrades:1.2.1+mc1.20.1@jar",
+          "name": "EMI Trades",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 53378,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/emitrades-forge-1.2.1+mc1.20.1.jar",
+            "MD5": "1638be6b2bcb2f3d488eb1d761058036"
           }
         },
         {
