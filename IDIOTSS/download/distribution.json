@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -789,6 +789,26 @@
             "size": 435496,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/watut-forge-1.20.1-1.2.3.jar",
             "MD5": "345d3ecdf94dffaa0e3ba55538c65f80"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.2.6@jar",
+          "name": "Xaero's Minimap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1704662,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Xaeros_Minimap_25.2.6_Forge_1.20.jar",
+            "MD5": "a570643fa1e58b3f19fa23ab66d325f2"
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.39.9@jar",
+          "name": "Xaero's World Map",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 948532,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/XaerosWorldMap_1.39.9_Forge_1.20.jar",
+            "MD5": "2a0899eef705ac91b0538b3447f3a10b"
           }
         },
         {
