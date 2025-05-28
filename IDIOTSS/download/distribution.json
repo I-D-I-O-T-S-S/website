@@ -1,12 +1,12 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.3",
+      "version": "2.0.4",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -432,6 +432,16 @@
           }
         },
         {
+          "id": "earth.terrarium:athena:3.1.2@jar",
+          "name": "Athena",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91808,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
+          }
+        },
+        {
           "id": "earth.terrarium:botarium:2.3.4@jar",
           "name": "Botarium",
           "type": "ForgeMod",
@@ -459,6 +469,16 @@
             "size": 3073327,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/cc-tweaked-1.20.1-forge-1.115.1.jar",
             "MD5": "eb104bb91d92a241d6bba81f4e32eec3"
+          }
+        },
+        {
+          "id": "earth.terrarium:chipped:3.0.7@jar",
+          "name": "Chipped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15060263,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+            "MD5": "c6c76e78805b357757bf47b04c7286e7"
           }
         },
         {
@@ -602,36 +622,6 @@
           }
         },
         {
-          "id": "dev.emi.emi.platform:emi:1.1.22+1.20.1+forge@jar",
-          "name": "EMI",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1048567,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/emi-1.1.22+1.20.1+forge.jar",
-            "MD5": "441c582c6e8a1d6fd9e3d16a27c1a39e"
-          }
-        },
-        {
-          "id": "io.github.prismwork:emiffect:1.1.2+mc1.20.1@jar",
-          "name": "EMIffect",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19646,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/emiffect-forge-1.1.2+mc1.20.1.jar",
-            "MD5": "7bbf2905c311d974f04b2312885d0f46"
-          }
-        },
-        {
-          "id": "io.github.prismwork:emitrades:1.2.1+mc1.20.1@jar",
-          "name": "EMI Trades",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 53378,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/emitrades-forge-1.2.1+mc1.20.1.jar",
-            "MD5": "1638be6b2bcb2f3d488eb1d761058036"
-          }
-        },
-        {
           "id": "net.liukrast.eg:extra_gauges:1.1.1@jar",
           "name": "Create: Extra Gauges",
           "type": "ForgeMod",
@@ -702,6 +692,66 @@
           }
         },
         {
+          "id": "net.mehvahdjukaar:jeed:1.20-2.2.5@jar",
+          "name": "Just Enough Effects Descriptions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 159288,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/jeed-1.20-2.2.5.jar",
+            "MD5": "6792ef4a197457dcff0b4353e956a94d"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.108@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1381978,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.108.jar",
+            "MD5": "bcb355cbcb3e0b0138093889cf0a9fa6"
+          }
+        },
+        {
+          "id": "de.melanx:jea:1.20.1-5.0.1@jar",
+          "name": "Just Enough Advancements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37823,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/JustEnoughAdvancements-1.20.1-5.0.1.jar",
+            "MD5": "ea76bc67233a0473aac7ca84e085a02a"
+          }
+        },
+        {
+          "id": "com.christofmeg:justenoughbreeding:1.5.0@jar",
+          "name": "Just Enough Breeding",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 139072,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/justenoughbreeding-forge-1.20-1.20.1-1.5.0.jar",
+            "MD5": "5b00e4a691a9d399484c633940faf360"
+          }
+        },
+        {
+          "id": "com.mrbysco:justenoughprofessions:3.0.1@jar",
+          "name": "Just Enough Professions (JEP)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24607,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
+            "MD5": "bee91e2889507c9264155b4eb8e1b864"
+          }
+        },
+        {
+          "id": "jeresources:jeresources:1.4.0.247@jar",
+          "name": "Just Enough Resources",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 276231,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/JustEnoughResources-1.20.1-1.4.0.247.jar",
+            "MD5": "413f7d427a16254ec8e08f78094a206d"
+          }
+        },
+        {
           "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
           "name": "Kotlinforforge",
           "type": "ForgeMod",
@@ -709,6 +759,16 @@
             "size": 7193768,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
             "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
+          }
+        },
+        {
+          "id": "org.moddingx:libx:1.20.1-5.0.5@jar",
+          "name": "LibX",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1249353,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/LibX-1.20.1-5.0.5.jar",
+            "MD5": "c9b85a005a6d3e849abf34c5cc453c58"
           }
         },
         {
@@ -779,6 +839,16 @@
             "size": 2732019,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/pipeorgans-0.7.1+1.20.1.jar",
             "MD5": "c39c5eb508ce0cdfa7016ceb7376bce5"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432753,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "MD5": "a040c6cc86f653fddf280ff3af9068f0"
           }
         },
         {
