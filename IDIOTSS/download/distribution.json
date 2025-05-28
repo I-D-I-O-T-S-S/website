@@ -1,12 +1,12 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -512,6 +512,16 @@
           }
         },
         {
+          "id": "com.gitlab.cdagaming:craftpresence:2.6.1@jar",
+          "name": "CraftPresence",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2056964,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/CraftPresence-2.6.1+1.20.1-forge.jar",
+            "MD5": "44297edeea1cdd703e9e1affb9d476f8"
+          }
+        },
+        {
           "id": "net.davio.aquaticambitions:create_aquatic_ambitions:1.20.1-1.1.5@jar",
           "name": "Create: Aquatic Ambitions",
           "type": "ForgeMod",
@@ -899,6 +909,16 @@
             "size": 1325981,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.66.997.jar",
             "MD5": "f0ecbccd64e0e4c0913f2193105ddb3f"
+          }
+        },
+        {
+          "id": "com.gitlab.cdagaming:unilib:1.1.0@jar",
+          "name": "UniLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1630001,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/UniLib-1.1.0+1.20.1-forge.jar",
+            "MD5": "c268d535b885f4e934830bc397d718aa"
           }
         },
         {
