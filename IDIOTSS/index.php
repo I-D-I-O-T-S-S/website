@@ -12,7 +12,7 @@
         <?php createNav() ?>
         <h1  class="title">IDIOTSS MINECRAFT SERVER</h1>
         <div class="content-links">
-            <a href="bluemap.idiotss.com">
+            <a href="https://bluemap.idiotss.com/">
                 <div class="url">
                     <span></span>
                     <div id="hover">
