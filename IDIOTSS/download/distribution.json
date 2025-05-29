@@ -1,12 +1,12 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.6",
+      "version": "2.0.7",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -569,6 +569,16 @@
             "size": 275437,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_mobile_packages-1.20.1-0.5.0.jar",
             "MD5": "7cd60af41d324623c463d3646ee0b263"
+          }
+        },
+        {
+          "id": "net.zlt:create_vibrant_vaults:0.3.1@jar",
+          "name": "Create: Vibrant Vaults",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2752995,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_vibrant_vaults-0.3.1.jar",
+            "MD5": "8e1be48465e572d8ba51d3d8e06fac94"
           }
         },
         {
