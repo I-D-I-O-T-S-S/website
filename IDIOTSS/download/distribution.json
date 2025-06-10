@@ -1,12 +1,12 @@
 {
-  "version": "2.0.9",
+  "version": "2.0.10",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.9",
+      "version": "2.0.10",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -592,13 +592,13 @@
           }
         },
         {
-          "id": "com.simibubi:create:6.0.4@jar",
+          "id": "com.simibubi:create:6.0.5@jar",
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
-            "size": 18463134,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-6.0.4.jar",
-            "MD5": "9d274d57a664ae35e6efbef8595bcc29"
+            "size": 18463026,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-6.0.5.jar",
+            "MD5": "65e18203856b718280c6787fe741d57c"
           }
         },
         {
