@@ -1,12 +1,12 @@
 {
-  "version": "2.0.8",
+  "version": "2.0.9",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.8",
+      "version": "2.0.9",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -549,6 +549,16 @@
             "size": 487764,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_enchantment_industry-1.3.2-for-create-6.0.4.jar",
             "MD5": "5bca43ed77ac0266bef81bd10bed8204"
+          }
+        },
+        {
+          "id": "ru.zznty:create_factory_logistics:1.3.1@jar",
+          "name": "Create Factory Logistics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1062715,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_factory_logistics-1.20.1-1.3.1.jar",
+            "MD5": "86765e65f70c251d9bc8b71fece9cfe6"
           }
         },
         {
