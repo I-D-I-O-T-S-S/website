@@ -1,12 +1,12 @@
 {
-  "version": "2.0.13",
+  "version": "2.0.14",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.13",
+      "version": "2.0.14",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -482,13 +482,13 @@
           }
         },
         {
-          "id": "com.copycatsplus:copycats:3.0.0+mc.1.20.1-forge@jar",
+          "id": "com.copycatsplus:copycats:3.0.2+mc.1.20.1-forge@jar",
           "name": "Create: Copycats+",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1983641,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/copycats-3.0.0+mc.1.20.1-forge.jar",
-            "MD5": "499d1c929806027860b2ee4715fbd1a4"
+            "size": 1988341,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/copycats-3.0.2+mc.1.20.1-forge.jar",
+            "MD5": "b0cf6993f60b27183e72800454e26218"
           }
         },
         {
@@ -2176,6 +2176,16 @@
             "size": 196564,
             "url": "https://www.idiotss.com/download/servers/IDIOTSSOLD-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
             "MD5": "e819065ae0a3d034c7804e2b2e16a45f"
+          }
+        },
+        {
+          "id": "com.railwayteam:railways:1.6.7+forge-mc1.20.1@jar",
+          "name": "Create: Steam 'n' Rails",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9997801,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSSOLD-1.20.1/forgemods/required/Steam_Rails-1.6.7+forge-mc1.20.1.jar",
+            "MD5": "32a83dba6630165e1415f9e78d4aaf2e"
           }
         },
         {
