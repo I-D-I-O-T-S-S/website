@@ -942,16 +942,6 @@
           }
         },
         {
-          "id": "com.railwayteam:railways:1.6.10-alpha+forge-mc1.20.1@jar",
-          "name": "Create: Steam 'n' Rails",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 10102018,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Steam_Rails-1.6.10-alpha+forge-mc1.20.1.jar",
-            "MD5": "edcf8946c2867ccb25ef7c0798ffe845"
-          }
-        },
-        {
           "id": "com.gitlab.cdagaming:unilib:1.1.0@jar",
           "name": "UniLib",
           "type": "ForgeMod",
