@@ -1,12 +1,12 @@
 {
-  "version": "2.0.10",
+  "version": "2.0.11",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.10",
+      "version": "2.0.11",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -592,13 +592,13 @@
           }
         },
         {
-          "id": "com.simibubi:create:6.0.5@jar",
+          "id": "com.simibubi:create:6.0.6@jar",
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
-            "size": 18463026,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-6.0.5.jar",
-            "MD5": "65e18203856b718280c6787fe741d57c"
+            "size": 18764522,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
+            "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
           }
         },
         {
@@ -662,13 +662,13 @@
           }
         },
         {
-          "id": "net.liukrast.eg:extra_gauges:1.1.1@jar",
+          "id": "net.liukrast.eg:extra_gauges:1.1.2@jar",
           "name": "Create: Extra Gauges",
           "type": "ForgeMod",
           "artifact": {
-            "size": 885275,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/extra_gauges-1.1.1-all.jar",
-            "MD5": "fb1d2e3e39f4bae94bb3c45c3b6a203f"
+            "size": 885280,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/extra_gauges-1.1.2-all.jar",
+            "MD5": "3739ab35b41479e8e87ca0de4f453f7b"
           }
         },
         {
@@ -939,6 +939,16 @@
             "size": 1325981,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.66.997.jar",
             "MD5": "f0ecbccd64e0e4c0913f2193105ddb3f"
+          }
+        },
+        {
+          "id": "com.railwayteam:railways:1.6.10-alpha+forge-mc1.20.1@jar",
+          "name": "Create: Steam 'n' Rails",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10102018,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Steam_Rails-1.6.10-alpha+forge-mc1.20.1.jar",
+            "MD5": "edcf8946c2867ccb25ef7c0798ffe845"
           }
         },
         {
