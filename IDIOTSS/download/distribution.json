@@ -1,12 +1,12 @@
 {
-  "version": "2.0.16",
+  "version": "2.0.17",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.16",
+      "version": "2.0.17",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -582,13 +582,13 @@
           }
         },
         {
-          "id": "de.theidler:create_mobile_packages:0.5.4-2@jar",
+          "id": "de.theidler:create_mobile_packages:0.5.3@jar",
           "name": "Create: Mobile Packages",
           "type": "ForgeMod",
           "artifact": {
-            "size": 377694,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_mobile_packages-1.20.1-0.5.4-2.jar",
-            "MD5": "a97d0c1a1f9cba708637c4e04f8582d7"
+            "size": 285266,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_mobile_packages-1.20.1-0.5.3.jar",
+            "MD5": "3bda6928225504faed19d03414b48de2"
           }
         },
         {
