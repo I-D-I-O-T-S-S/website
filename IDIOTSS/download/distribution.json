@@ -582,13 +582,13 @@
           }
         },
         {
-          "id": "de.theidler:create_mobile_packages:0.5.0@jar",
+          "id": "de.theidler:create_mobile_packages:0.5.4-2@jar",
           "name": "Create: Mobile Packages",
           "type": "ForgeMod",
           "artifact": {
-            "size": 275437,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_mobile_packages-1.20.1-0.5.0.jar",
-            "MD5": "7cd60af41d324623c463d3646ee0b263"
+            "size": 377694,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_mobile_packages-1.20.1-0.5.4-2.jar",
+            "MD5": "a97d0c1a1f9cba708637c4e04f8582d7"
           }
         },
         {
