@@ -1,5 +1,5 @@
-let slideIndex = randomIntFromInterval(0, 7);
-let numSlides = 7;
+let numSlides = 8;
+let slideIndex = randomIntFromInterval(0, numSlides);
 showSlides();
 
 const background = document.getElementById("background");
