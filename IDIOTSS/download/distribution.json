@@ -1,12 +1,12 @@
 {
-  "version": "2.0.15",
+  "version": "2.0.16",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.15",
+      "version": "2.0.16",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -949,6 +949,16 @@
             "size": 1325981,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.66.997.jar",
             "MD5": "f0ecbccd64e0e4c0913f2193105ddb3f"
+          }
+        },
+        {
+          "id": "com.railwayteam:railways:1.6.11-alpha+forge-mc1.20.1@jar",
+          "name": "Create: Steam 'n' Rails",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10111314,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Steam_Rails-1.6.11-alpha+forge-mc1.20.1.jar",
+            "MD5": "10a30be6956c72fa4769d41580527e84"
           }
         },
         {
