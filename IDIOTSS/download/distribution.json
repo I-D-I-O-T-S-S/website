@@ -1,12 +1,12 @@
 {
-  "version": "2.0.17",
+  "version": "2.0.18",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.17",
+      "version": "2.0.18",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -532,13 +532,13 @@
           }
         },
         {
-          "id": "net.davio.aquaticambitions:create_aquatic_ambitions:1.20.1-1.1.5@jar",
+          "id": "net.davio.aquaticambitions:create_aquatic_ambitions:1.20.1-2.0.0-b@jar",
           "name": "Create: Aquatic Ambitions",
           "type": "ForgeMod",
           "artifact": {
-            "size": 442007,
-            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_aquatic_ambitions-1.20.1-1.1.5.jar",
-            "MD5": "d49c86afe4da3321af3ca54c0298b1dd"
+            "size": 627866,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_aquatic_ambitions-1.20.1-2.0.0-b.jar",
+            "MD5": "6c8a4f21064a30e927d0130e3e1b3c48"
           }
         },
         {
@@ -649,6 +649,16 @@
             "size": 3422524,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/createdieselgenerators-1.20.1-1.3.1.jar",
             "MD5": "c7a13a2a63e8b3edf0426186a76d555f"
+          }
+        },
+        {
+          "id": "com.cyvack:crystal_clear:2.0-Beta@jar",
+          "name": "Create: Crystal Clear",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 201089,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Crystal-Clear-2.0-Beta-forge.jar",
+            "MD5": "1bf9f4850ff38feb33661242d149db4f"
           }
         },
         {
