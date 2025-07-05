@@ -1,12 +1,12 @@
 {
-  "version": "2.0.19",
+  "version": "2.0.20",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.19",
+      "version": "2.0.20",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -569,6 +569,16 @@
             "size": 1078437,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_factory_logistics-1.20.1-1.4.2.jar",
             "MD5": "0880f47871ba9857586f7aae9c0c673a"
+          }
+        },
+        {
+          "id": "com.pedrorok.hypertube:create_hypertube:0.2.2@jar",
+          "name": "Create Hypertube",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299727,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create_hypertube-0.2.2-FORGE.jar",
+            "MD5": "e1776892a5897e2cb5361dfcc76049e6"
           }
         },
         {
