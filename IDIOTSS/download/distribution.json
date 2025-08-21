@@ -1,12 +1,12 @@
 {
-  "version": "2.0.22",
+  "version": "2.0.23",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.22",
+      "version": "2.0.23",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -699,6 +699,19 @@
             "size": 2962947,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.8.jar",
             "MD5": "56aed09101bcbf0790154f8d8f09d9aa"
+          }
+        },
+        {
+          "id": "org.figuramc:figura:0.1.5+1.20.1@jar",
+          "name": "Figura",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2338069,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/optionalon/figura-0.1.5+1.20.1-forge-mc.jar",
+            "MD5": "9a14ac7b2c6dea0085570fe4bb7a4b69"
+          },
+          "required": {
+            "value": false
           }
         },
         {
