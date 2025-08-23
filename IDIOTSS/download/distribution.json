@@ -1,12 +1,12 @@
 {
-  "version": "2.0.25",
+  "version": "2.0.26",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.25",
+      "version": "2.0.26",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -420,6 +420,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "net.mehvahdjukaar:amendments:1.20-2.2.1@jar",
+          "name": "Amendments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1298659,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/amendments-1.20-2.2.1.jar",
+            "MD5": "5512d7f34d2ee140d435ae83bbb0303c"
+          }
         },
         {
           "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
