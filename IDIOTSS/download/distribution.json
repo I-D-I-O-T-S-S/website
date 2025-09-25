@@ -1,12 +1,12 @@
 {
-  "version": "2.0.26",
+  "version": "2.0.27",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.26",
+      "version": "2.0.27",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -499,6 +499,16 @@
             "size": 15060263,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
             "MD5": "c6c76e78805b357757bf47b04c7286e7"
+          }
+        },
+        {
+          "id": "com.cobblemon.mod:cobblemon:1.5.2+1.20.1@jar",
+          "name": "Cobblemon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 104105045,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Cobblemon-forge-1.5.2+1.20.1.jar",
+            "MD5": "89e9852463f198a88c7fb509a0eb5dd1"
           }
         },
         {
