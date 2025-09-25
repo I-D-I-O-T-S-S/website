@@ -1,12 +1,12 @@
 {
-  "version": "2.0.27",
+  "version": "2.0.28",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.27",
+      "version": "2.0.28",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -639,6 +639,16 @@
             "size": 18764522,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
             "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
+          }
+        },
+        {
+          "id": "bracken.createcobblemon:create_cobblemon:0.4@jar",
+          "name": "Create: Cobblemon Industrialized",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 518974,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/Create-Cobblemon-Forge-v0.4.jar",
+            "MD5": "5075c95136dfc091237a4b06462e60c2"
           }
         },
         {

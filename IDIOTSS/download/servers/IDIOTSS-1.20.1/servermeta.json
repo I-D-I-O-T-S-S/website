@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Github/website/IDIOTSS/download/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "2.0.27",
+    "version": "2.0.28",
     "name": "IDIOTSS",
     "description": "IDIOTSS Server",
     "icon": "https://www.idiotss.com/favicon.png",
