@@ -1,12 +1,12 @@
 {
-  "version": "2.0.29",
+  "version": "2.0.30",
   "servers": [
     {
       "id": "IDIOTSS-1.20.1",
       "name": "IDIOTSS",
       "description": "IDIOTSS Server",
       "icon": "https://www.idiotss.com/favicon.png",
-      "version": "2.0.29",
+      "version": "2.0.30",
       "address": "play.idiotss.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
@@ -719,6 +719,16 @@
             "size": 17926585,
             "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar",
             "MD5": "a1400fe73ebdbd4f2900604435174924"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://www.idiotss.com/download/servers/IDIOTSS-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
         {
